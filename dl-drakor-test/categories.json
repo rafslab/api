@@ -1,1 +1,49 @@
-
+{
+  "categories": [
+    {
+      "name": "Action"
+    },
+    {
+      "name": "Adventure"
+    },
+    {
+      "name": "Animation"
+    },
+    {
+      "name": "Comedy"
+    },
+    {
+      "name": "Crime"
+    },
+    {
+      "name": "Drama"
+    },
+    {
+      "name": "Fantasy"
+    },
+    {
+      "name": "Historical"
+    },
+    {
+      "name": "Horror"
+    },
+    {
+      "name": "Mystery"
+    },
+    {
+      "name": "Political"
+    },
+    {
+      "name": "Romance"
+    },
+    {
+      "name": "Satire"
+    },
+    {
+      "name": "Sci-Fi"
+    },
+    {
+      "name": "Thriller"
+    }
+  ]
+}

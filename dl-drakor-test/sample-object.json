@@ -1,0 +1,1170 @@
+[
+  {
+    "title": "title",
+    "2nd_title": "second_title",
+    "description": "description",
+    "categories": "categories",
+    "categories_array": [
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      }
+    ],
+    "poster": "poster",
+    "cover": "cover",
+    "cover_array": [
+      {
+        "image": "image"
+      }
+    ],
+    "subtitle": "subtitle",
+    "subtitle_region": "Indonesia",
+    "episode": {
+      "count": 21,
+      "items": [
+        {
+          "name": "Season 1",
+          "value": "value"
+        }
+      ],
+      "batch": [
+        {
+          "name": "Season 01",
+          "value": "value"
+        }
+      ]
+    },
+    "trailer": "trailer",
+    "rating": 8.3,
+    "duration": "duration",
+    "type": "TV Series",
+    "release": "release",
+    "cast": [
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      }
+    ],
+    "imdb": "https://www.imdb.com/title/tt3469052/",
+    "pinned": false
+  },
+  {
+    "title": "title",
+    "2nd_title": "second_title",
+    "description": "description",
+    "categories": "categories",
+    "categories_array": [
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      }
+    ],
+    "poster": "poster",
+    "cover": "cover",
+    "cover_array": [
+      {
+        "image": "image"
+      }
+    ],
+    "subtitle": "subtitle",
+    "subtitle_region": "Indonesia",
+    "episode": {
+      "count": 21,
+      "items": [
+        {
+          "name": "Season 1",
+          "value": "value"
+        }
+      ],
+      "batch": [
+        {
+          "name": "Season 01",
+          "value": "value"
+        }
+      ]
+    },
+    "trailer": "trailer",
+    "rating": 8.3,
+    "duration": "duration",
+    "type": "TV Series",
+    "release": "release",
+    "cast": [
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      }
+    ],
+    "imdb": "https://www.imdb.com/title/tt3469052/",
+    "pinned": false
+  },
+  {
+    "title": "title",
+    "2nd_title": "second_title",
+    "description": "description",
+    "categories": "categories",
+    "categories_array": [
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      }
+    ],
+    "poster": "poster",
+    "cover": "cover",
+    "cover_array": [
+      {
+        "image": "image"
+      }
+    ],
+    "subtitle": "subtitle",
+    "subtitle_region": "Indonesia",
+    "episode": {
+      "count": 21,
+      "items": [
+        {
+          "name": "Season 1",
+          "value": "value"
+        }
+      ],
+      "batch": [
+        {
+          "name": "Season 01",
+          "value": "value"
+        }
+      ]
+    },
+    "trailer": "trailer",
+    "rating": 8.3,
+    "duration": "duration",
+    "type": "TV Series",
+    "release": "release",
+    "cast": [
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      }
+    ],
+    "imdb": "https://www.imdb.com/title/tt3469052/",
+    "pinned": false
+  },
+  {
+    "title": "title",
+    "2nd_title": "second_title",
+    "description": "description",
+    "categories": "categories",
+    "categories_array": [
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      }
+    ],
+    "poster": "poster",
+    "cover": "cover",
+    "cover_array": [
+      {
+        "image": "image"
+      }
+    ],
+    "subtitle": "subtitle",
+    "subtitle_region": "Indonesia",
+    "episode": {
+      "count": 21,
+      "items": [
+        {
+          "name": "Season 1",
+          "value": "value"
+        }
+      ],
+      "batch": [
+        {
+          "name": "Season 01",
+          "value": "value"
+        }
+      ]
+    },
+    "trailer": "trailer",
+    "rating": 8.3,
+    "duration": "duration",
+    "type": "TV Series",
+    "release": "release",
+    "cast": [
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      }
+    ],
+    "imdb": "https://www.imdb.com/title/tt3469052/",
+    "pinned": false
+  },
+  {
+    "title": "title",
+    "2nd_title": "second_title",
+    "description": "description",
+    "categories": "categories",
+    "categories_array": [
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      }
+    ],
+    "poster": "poster",
+    "cover": "cover",
+    "cover_array": [
+      {
+        "image": "image"
+      }
+    ],
+    "subtitle": "subtitle",
+    "subtitle_region": "Indonesia",
+    "episode": {
+      "count": 21,
+      "items": [
+        {
+          "name": "Season 1",
+          "value": "value"
+        }
+      ],
+      "batch": [
+        {
+          "name": "Season 01",
+          "value": "value"
+        }
+      ]
+    },
+    "trailer": "trailer",
+    "rating": 8.3,
+    "duration": "duration",
+    "type": "TV Series",
+    "release": "release",
+    "cast": [
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      }
+    ],
+    "imdb": "https://www.imdb.com/title/tt3469052/",
+    "pinned": false
+  },
+  {
+    "title": "title",
+    "2nd_title": "second_title",
+    "description": "description",
+    "categories": "categories",
+    "categories_array": [
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      }
+    ],
+    "poster": "poster",
+    "cover": "cover",
+    "cover_array": [
+      {
+        "image": "image"
+      }
+    ],
+    "subtitle": "subtitle",
+    "subtitle_region": "Indonesia",
+    "episode": {
+      "count": 21,
+      "items": [
+        {
+          "name": "Season 1",
+          "value": "value"
+        }
+      ],
+      "batch": [
+        {
+          "name": "Season 01",
+          "value": "value"
+        }
+      ]
+    },
+    "trailer": "trailer",
+    "rating": 8.3,
+    "duration": "duration",
+    "type": "TV Series",
+    "release": "release",
+    "cast": [
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      }
+    ],
+    "imdb": "https://www.imdb.com/title/tt3469052/",
+    "pinned": false
+  },
+  {
+    "title": "title",
+    "2nd_title": "second_title",
+    "description": "description",
+    "categories": "categories",
+    "categories_array": [
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      }
+    ],
+    "poster": "poster",
+    "cover": "cover",
+    "cover_array": [
+      {
+        "image": "image"
+      }
+    ],
+    "subtitle": "subtitle",
+    "subtitle_region": "Indonesia",
+    "episode": {
+      "count": 21,
+      "items": [
+        {
+          "name": "Season 1",
+          "value": "value"
+        }
+      ],
+      "batch": [
+        {
+          "name": "Season 01",
+          "value": "value"
+        }
+      ]
+    },
+    "trailer": "trailer",
+    "rating": 8.3,
+    "duration": "duration",
+    "type": "TV Series",
+    "release": "release",
+    "cast": [
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      }
+    ],
+    "imdb": "https://www.imdb.com/title/tt3469052/",
+    "pinned": false
+  },
+  {
+    "title": "title",
+    "2nd_title": "second_title",
+    "description": "description",
+    "categories": "categories",
+    "categories_array": [
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      },
+      {
+        "genre": "genre"
+      }
+    ],
+    "poster": "poster",
+    "cover": "cover",
+    "cover_array": [
+      {
+        "image": "image"
+      }
+    ],
+    "subtitle": "subtitle",
+    "subtitle_region": "Indonesia",
+    "episode": {
+      "count": 21,
+      "items": [
+        {
+          "name": "Season 1",
+          "value": "value"
+        }
+      ],
+      "batch": [
+        {
+          "name": "Season 01",
+          "value": "value"
+        }
+      ]
+    },
+    "trailer": "trailer",
+    "rating": 8.3,
+    "duration": "duration",
+    "type": "TV Series",
+    "release": "release",
+    "cast": [
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      },
+      {
+        "name": "name",
+        "real_name": "real_name",
+        "profile": "profile",
+        "description": "description",
+        "height": "height",
+        "born": "born",
+        "sex": "Female",
+        "cover": [
+          {
+            "image": "cover_1"
+          },
+          {
+            "image": "cover_2"
+          },
+          {
+            "image": "cover_3"
+          },
+          {
+            "image": "cover_4"
+          }
+        ],
+        "country": "country"
+      }
+    ],
+    "imdb": "https://www.imdb.com/title/tt3469052/",
+    "pinned": false
+  }
+]
