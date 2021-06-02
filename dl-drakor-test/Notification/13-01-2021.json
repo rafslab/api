@@ -1,1 +1,136 @@
-
+[
+  {
+  "id": 44,
+  "time": "",
+  "title": "A Gentleman’s Dignity",
+  "2nd_title": "second_title",
+  "status": 1,
+  "description": "Drama Korea A Gentleman’s Dignity Sub Indo menceritakan Kim Do Jin yang merupakan seorang pria  yang berusia 40-an. Kim Do Jin adalah seorang arsitek di sebuah perusahaan besar. Seo Yi Soo merupakan seorang wanita yang bekerja sebagai seorang guru SMA. Kim Do Jin jatuh cinta kepada Seo Yi Soo, namun Seo Yi Soo sendiri sudah memendam cinta kepada Im Tae San yang merupakan teman dari Kim Do Jin. Kisah mereka meliputi cinta segitiga dan arti persahabatan.",
+  "categories": "Comedy, Drama, Romance",
+  "tags": "Love At First Sight, Adult Romance, Male Chases Female First, Multiple Couples, Bromance",
+  "country": "South Korea",
+  "epsCount": 20,
+  "seasonCount": 1,
+  "contentRating": 15,
+  "release": 2020,
+  "poster": "https://i.pinimg.com/originals/41/f4/9f/41f49fc733f78c4d7849c9baa295519d.jpg",
+  "cover": "https://cdn.idntimes.com/content-images/community/2018/02/a1-e84e529619ce7e14d804fef27191dfc4_600x400.jpg",
+  "cover_array": [
+    {
+      "image": "https://cdn.idntimes.com/content-images/community/2018/02/a1-e84e529619ce7e14d804fef27191dfc4_600x400.jpg"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/06/A_Gentleman%27s_Dignity_drama_poster.jpg"
+    },
+    {
+      "image": "https://www.ceritakorea.com/wp-content/uploads/2015/04/a-gentlemans-dignity.png"
+    },
+    {
+      "image": "https://www.wowkeren.com/images/news/00177380.jpg"
+    }
+  ],
+  "subtitle": "subtitle",
+  "subtitle_region": "subtitle_region",
+  "download": [
+    {
+      "name": "Season 01",
+      "count": 20,
+      "resolution": {
+        "value": [
+          {
+            "name": "360p",
+            "value": {
+              "episode": "episode_360",
+              "batch": "batch"
+            }
+          },
+          {
+            "name": "480p",
+            "value": {
+              "episode": "episode_480",
+              "batch": "batch"
+            }
+          },
+          {
+            "name": "720p",
+            "value": {
+              "episode": "episode_720",
+              "batch": "batch"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "trailer": "trailer",
+  "rating": 8.3,
+  "duration": "1 hr. 5 min.",
+  "type": "TV Series",
+  "progress": "26 Mei – 12 Agustus, 2012",
+  "cast": [
+    {
+      "name": "Kim Do-Jin",
+      "real_name": "Jang Dong-Gun",
+      "profile": "https://asianwiki.com/images/2/26/Gentleman%27s_Dignity-Jang_Dong-Gun.jpg",
+      "cover": "https://asianwiki.com/images/7/7a/Jang_Dong-Gun-BIFF-p2.jpg",
+      "born": "March 7, 1972. Seoul, South Korea",
+      "social_media": [
+        {
+          "type": "null",
+          "name": "name",
+          "value": "value"
+        }
+      ],
+      "sex": "Male"
+    },
+    {
+      "name": "Seo Yi-Soo",
+      "real_name": "Kim Ha-Neul",
+      "profile": "https://asianwiki.com/images/1/19/Gentleman%27s_Dignity-Kim_Ha-Neul.jpg",
+      "cover": "https://asianwiki.com/images/8/80/Kim_Ha-Neul-01-9-2016.jpg",
+      "born": "February 21, 1978. Seoul,South Korea",
+      "social_media": [
+        {
+          "type": "Instagram",
+          "name": "haneul_jin",
+          "value": "https://www.instagram.com/haneul_jin/"
+        }
+      ],
+      "sex": "Female"
+    },
+    {
+      "name": "Im Tae-San",
+      "real_name": "Kim Su-Ro",
+      "profile": "https://asianwiki.com/images/0/03/Gentleman%27s_Dignity-Kim_Su-Ro.jpg",
+      "cover": "https://asianwiki.com/images/6/61/Kim_Su-Ro-p3.jpg",
+      "born": "May 7, 1970. Anseong, Gyeonggi Province, South Korea",
+      "social_media": [
+        {
+          "type": "Twitter",
+          "name": "@kimsooro",
+          "value": "https://twitter.com/kimsooro"
+        }
+      ],
+      "sex": "Male"
+    },
+    {
+      "name": "Choi Yoon",
+      "real_name": "Kim Min-Jong",
+      "profile": "https://asianwiki.com/images/b/be/Gentleman%27s_Dignity-Kim_Min-Jong.jpg",
+      "cover": "https://asianwiki.com/images/d/df/Kim_Min-Jong-p2.jpg",
+      "born": "March 23, 1971. Seoul, South Korea",
+      "social_media": [
+        {
+          "type": "null",
+          "name": "name",
+          "value": "value"
+        }
+      ],
+      "sex": "Male"
+    }
+  ],
+  "castDetails": "https://mydramalist.com/3570-a-gentlemans-dignity/cast",
+  "movieDetails": "https://mydramalist.com/3570-a-gentlemans-dignity",
+  "pinned": false
+}
+]
