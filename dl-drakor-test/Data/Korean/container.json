@@ -1,0 +1,134 @@
+ {
+  "id": 5,
+  "time": "",
+  "title": "title",
+  "2nd_title": "second_title",
+  "status": 1,
+  "description": "description",
+  "categories": "categories",
+  "tags": "tags",
+  "country": "country",
+  "epsCount": 16,
+  "seasonCount": 1,
+  "contentRating": 15,
+  "release": 2020,
+  "poster": "poster",
+  "cover": "cover",
+  "cover_array": [
+    {
+      "image": "image"
+    },
+    {
+      "image": "image"
+    },
+    {
+      "image": "image"
+    },
+    {
+      "image": "image"
+    }
+  ],
+  "subtitle": "subtitle",
+  "subtitle_region": "subtitle_region",
+  "download": [
+    {
+      "name": "Season 01",
+      "count": 16,
+      "resolution": {
+        "value": [
+          {
+            "name": "360p",
+            "value": {
+              "episode": "episode_360",
+              "batch": "batch"
+            }
+          },
+          {
+            "name": "480p",
+            "value": {
+              "episode": "episode_480",
+              "batch": "batch"
+            }
+          },
+          {
+            "name": "720p",
+            "value": {
+              "episode": "episode_720",
+              "batch": "batch"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "trailer": "trailer",
+  "rating": 8.6,
+  "duration": "duration",
+  "type": "TV Series",
+  "progress": "progress",
+  "cast": [
+    {
+      "name": "name",
+      "real_name": "real_name",
+      "profile": "profile",
+      "cover": "cover",
+      "born": "born",
+      "social_media": [
+        {
+          "type": "null",
+          "name": "name",
+          "value": "value"
+        }
+      ],
+      "sex": "Male"
+    },
+    {
+      "name": "name",
+      "real_name": "real_name",
+      "profile": "profile",
+      "cover": "cover",
+      "born": "born",
+      "social_media": [
+        {
+          "type": "null",
+          "name": "name",
+          "value": "value"
+        }
+      ],
+      "sex": "Male"
+    },
+    {
+      "name": "name",
+      "real_name": "real_name",
+      "profile": "profile",
+      "cover": "cover",
+      "born": "born",
+      "social_media": [
+        {
+          "type": "null",
+          "name": "name",
+          "value": "value"
+        }
+      ],
+      "sex": "Male"
+    },
+    {
+      "name": "name",
+      "real_name": "real_name",
+      "profile": "profile",
+      "cover": "cover",
+      "born": "born",
+      "social_media": [
+        {
+          "type": "null",
+          "name": "name",
+          "value": "value"
+        }
+      ],
+      "sex": "Male"
+    }
+  ],
+  "castDetails": "castDetails",
+  "movieDetails": "movieDetails",
+  "pinned": false
+}
