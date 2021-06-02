@@ -1,0 +1,24 @@
+{
+  "status": 2,
+  "message": {
+    "body": {
+      "title": "Update",
+      "description": "Version: 0.35.beta-build1 is available.",
+      "changeLog": "Test",
+      "cover": ""
+    },
+    "header": ""
+  },
+  "update": true,
+  "function": {
+    "version": {
+      "value": "0.35.beta-build1",
+      "code": 1
+    },
+    "download": {
+      "value": "https://drive.google.com/u/0/uc?id=1Q2fJpZ5zRm8qE6zowe9n1I0Wnxngxqr0&export=download"
+    },
+    "countDown": false,
+    "value": 0
+  }
+}
