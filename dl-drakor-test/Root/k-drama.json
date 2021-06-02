@@ -1,1 +1,559 @@
-
+[
+  {
+    "id": 15,
+    "time": "",
+    "title": "Start-Up",
+    "2ndTitle": "second_title",
+    "status": 1,
+    "description": "Drama Korea ini bercerita mengenai orang-orang yang bekerja di sebuah perusahaan startup. Start Up menjadi salah satu tontonan wajib bagi para pecinta drama Korea karena menghadirkan kisah yang menarik dan banyak pelajaran bagi Anda yang tertarik mengenai dunia investasi dan saham.",
+    "categories": "Business, Comedy, Romance, Youth, Drama",
+    "tags": "Unhealthy Relationship, Nice Second Lead, Hardworking Female Lead, Misunderstanding, Love Triangle, Competition, Team Leader, Workplace, App Developer, Time Skip",
+    "country": "South Korea",
+    "epsCount": 16,
+    "seasonCount": 1,
+    "contentRating": 15,
+    "release": 2020,
+    "poster": "https://miro.medium.com/max/1080/1*94oNupdnknMa4KmQG5OzUg.jpeg",
+    
+    "cover": [
+      {
+        "image": "https://imgcdn.femaledaily.com/2020/10/start-up-drama-poster-cover1-e1603447915637.jpg"
+      },
+      {
+        "image": "https://i1.wp.com/kreativv.com/wp-content/uploads/2020/11/cover-quiz-start-up-1.jpg?fit=680%2C400&ssl=1"
+      },
+      {
+        "image": "https://imgcdn.femaledaily.com/2020/10/drama-korea-start-up-e1603448207196.jpg"
+      }
+    ],
+    "subtitle": "https://www.subscene.com/",
+    "subtitleRegion": "Indonesia",
+    "download": [
+      {
+        "name": "Season 01",
+        "count": 16,
+        "resolution": {
+          "value": [
+            {
+              "name": "360p",
+              "value": {
+                "episode": "episode_360",
+                "batch": "batch"
+              }
+            },
+            {
+              "name": "480p",
+              "value": {
+                "episode": "episode_480",
+                "batch": "batch"
+              }
+            },
+            {
+              "name": "720p",
+              "value": {
+                "episode": "episode_720",
+                "batch": "batch"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "trailer": "trailer",
+    "rating": 7.9,
+    "duration": "1 hr. 25 min.",
+    "type": "TV Series",
+    "downloadable": 0,
+    "progress": "Oct 17, 2020 - Dec 6, 2020",
+    "cast": [
+      {
+        "name": "Seo Dal-Mi",
+        "realName": "Bae Suzy",
+        "profile": "https://asianwiki.com/images/e/ef/Start_Up-Bae_Suzy.jpg",
+        "cover": "https://asianwiki.com/images/d/d0/Bae_Suzy-PR002.jpg",
+        "born": "October 10, 1994. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": null,
+            "name": "name",
+            "value": "value"
+          }
+        ],
+        "gender": "Female"
+      },
+      {
+        "name": "Nam Do-San",
+        "realName": "Nam Joo-Hyuk",
+        "profile": "https://asianwiki.com/images/4/45/Start_Up-Nam_Joo_Hyuk.jpg",
+        "cover": "https://asianwiki.com/images/7/7c/Nam_Joo-Hyuk-PR002.jpg",
+        "born": "February 22, 1994. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "skawngur",
+            "value": "https://instagram.com/skawngur"
+          }
+        ],
+        "gender": "Male"
+      },
+      {
+        "name": "Han Ji-Pyeong",
+        "realName": "Kim Sun-Ho",
+        "profile": "https://asianwiki.com/images/9/9d/Start_Up-Kim_Sun-Ho.jpg",
+        "cover": "https://asianwiki.com/images/b/bf/Kim_Sun-Ho_%281986%29-p2.jpg",
+        "born": "May 8, 1986. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "seonho__kim",
+            "value": "https://www.instagram.com/seonho__kim/"
+          }
+        ],
+        "gender": "Male"
+      },
+      {
+        "name": "Won In-Jae",
+        "realName": "Kang Han-Na",
+        "profile": "https://asianwiki.com/images/a/a9/Start_Up-Kang_Han-Na.jpg",
+        "cover": "https://asianwiki.com/images/b/b4/Kang_Han-Na-p1.jpg",
+        "born": "January 30, 1989. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "k_hanna_",
+            "value": "https://www.instagram.com/k_hanna_/"
+          }
+        ],
+        "gender": "Female"
+      }
+    ],
+    "castDetails": "https://mydramalist.com/51909-sandbox/cast",
+    "movieDetails": "https://mydramalist.com/51909-sandbox",
+    "pinned": false
+  },
+  {
+    "id": 2,
+    "time": "",
+    "title": "It's Okay to Not Be Okay",
+    "2ndTitle": "Saikojiman Gwaenchanha",
+    "status": 1,
+    "description": "An extraordinary road to emotional healing opens up for an antisocial children's book writer and a selfless psych ward caretaker when they cross paths.",
+    "categories": "Psychological, Comedy, Romance, Drama, Family",
+    "tags": "Mental Health, Emotionally Wounded, Successful Female Lead, Strong Female Lead, Healing, Psychiatry, Caregiver, Brotherhood, PTSD, Trauma",
+    "country": "South Korea",
+    "epsCount": 16,
+    "seasonCount": 1,
+    "contentRating": 15,
+    "release": 2020,
+    "poster": "https://cinemags.co.id/wp-content/uploads/2020/06/kim-soo-hyun-seo-ye-ji-.jpeg",
+   
+    "cover": [
+      {
+        "image": "https://kpopchart.net/wp-content/uploads/2020/06/its-okay-to-not-be-okay.jpg"
+      },
+      {
+        "image": "https://wheninmanila.blob.core.windows.net/wheninmanilabucket/2020/06/Netflix-Korean-Drama-Its-Okay-to-Not-be-Okay-Kim-Soo-hyun-Seo-Ye-ji-scaled.jpg"
+      },
+      {
+        "image": "https://hw-media.herworld.com/public/2020/06/its-okay-not-okay-kim-soo-hyun-interview-seo-ye-ji-1.jpg"
+      },
+      {
+        "image": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_799/https://inkistyle.com/wp-content/uploads/2020/06/Its-Okay-To-Not-Be-Okay-Kdrama-Fashion-Seo-Ye-Ji-Episode-1-3-1.jpg"
+      }
+    ],
+    "subtitle": "https://www.subscene.com/",
+    "subtitleRegion": "Indonesia",
+    "download": [
+      {
+        "name": "Season 01",
+        "count": 16,
+        "resolution": {
+          "value": [
+            {
+              "name": "360p",
+              "value": {
+                "episode": "episode_360",
+                "batch": "https://drive.google.com/uc?export=download&id=1puPPdTY-fp03a6jFsj7h6o7g2Kgv6flH"
+              }
+            },
+            {
+              "name": "480p",
+              "value": {
+                "episode": "episode_480",
+                "batch": "https://drive.google.com/uc?export=download&id=1puPPdTY-fp03a6jFsj7h6o7g2Kgv6flH"
+              }
+            },
+            {
+              "name": "720p",
+              "value": {
+                "episode": "episode_720",
+                "batch": "https://drive.google.com/uc?export=download&id=1puPPdTY-fp03a6jFsj7h6o7g2Kgv6flH"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "trailer": "trailer",
+    "rating": 8.9,
+    "duration": "1 hr. 15 min",
+    "type": "TV Series",
+    "downloadable": 0,
+    "progress": "Jun 20, 2020 - Aug 9, 2020",
+    "cast": [
+      {
+        "name": "Moon Gang Tae",
+        "realName": "Kim Soo-Hyun",
+        "profile": "https://i.pinimg.com/originals/7a/79/48/7a7948be29893de9d9b9937a70ad0fbd.jpg",
+        "cover": "https://asianwiki.com/images/e/ec/Kim_Soo-Hyun-1988-p02.jpg",
+        "born": "February 16, 1988. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "soohyun_k216",
+            "value": "https://www.www.instagram.com/soohyun_k216/"
+          }
+        ],
+        "gender": "Male"
+      },
+      {
+        "name": "Go Moon Young",
+        "realName": "Seo Ye-Ji",
+        "profile": "https://awsimages.detik.net.id/community/media/visual/2020/05/08/e17c08f7-ea89-4b4b-9464-692d6c830178_43.jpeg?w=700&q=90",
+        "cover": "https://asianwiki.com/images/7/7d/Seo_Yea-Ji-1990-p1.jpg",
+        "born": "April 06, 1990 in Seoul. South Korea.",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": null,
+            "name": "name",
+            "value": "value"
+          }
+        ],
+        "gender": "Female"
+      },
+      {
+        "name": "Moon Sang Tae",
+        "realName": "Oh Jung-Se",
+        "profile": "https://m.media-amazon.com/images/M/MV5BMjI0YjIzNTYtY2EzZS00YzBhLTg2YWYtYzI5YTIwYTgwZmE3XkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_UX214_CR0,0,214,317_AL_.jpg",
+        "cover": "https://asianwiki.com/images/e/e1/Oh_Jung-Se-p03.jpg",
+        "born": "February 26, 1977. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": null,
+            "name": "name",
+            "value": "value"
+          }
+        ],
+        "gender": "Male"
+      },
+      {
+        "name": "Nam Joo Ri",
+        "realName": "Park Gyu-Young",
+        "profile": "https://cinemags.co.id/wp-content/uploads/2020/05/park-gyu-young-2.jpg",
+        "cover": "https://asianwiki.com/images/1/1b/Park_Gyu-Young-p2.jpg",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "lavieenbluu",
+            "value": "https://www.www.instagram.com/lavieenbluu/"
+          }
+        ],
+        "born": "July 27, 1993 in Korea",
+        "gender": "Female"
+      }
+    ],
+    "castDetails": "https://mydramalist.com/49865-psycho-but-it-s-okay/cast",
+    "movieDetails": "https://mydramalist.com/49865-psycho-but-it-s-okay",
+    "pinned": false
+  },
+  {
+    "id": 14,
+    "time": "",
+    "title": "Hospital Playlist",
+    "2ndTitle": "second_title",
+    "status": 1,
+    "description": "Drama Korea yang akan tayang pada 12 Maret 2020 di tvN dan Netflix ini dibintangi Jo Jung Suk, Kim Dae Myung, Jung Kyung Ho dan Jeon Mi Do. Hospital Playlist akan menceritakan kelima para dokter yang sudah menjalin persahabatan sejak masuk sekolah kedokteran 20 tahun lalu. Drama ini ingin menampilkan cerita yang ringan dan benar-benar dekat dengan kehidupan sehari-hari penonton. Drama Hospial Playlist berjumlah 12 episode.",
+    "categories": "Friendship, Comedy, Romance, Life, Drama, Medical",
+    "tags": "Strong Friendship, Slice Of Life, Doctor, Multiple Mains, Best Friends, Hospital, Slight Romance, Strong Female Lead, Heartfelt, Bromance",
+    "country": "South Korea",
+    "epsCount": 12,
+    "seasonCount": 1,
+    "contentRating": 15,
+    "release": 2020,
+    "poster": "https://koreanindo.net/wp-content/uploads/2020/03/hospital-playlist-jo-jung-suk-yoo-yeon-seok-jung-kyung-ho-jeon-mi-do-kim-dae-myung.jpeg",
+    
+    "cover": [
+      {
+        "image": "https://akcdn.detik.net.id/community/media/visual/2020/02/28/1b848b7d-6c89-445a-9c6b-88a4fcf5509e_169.jpeg?w=620"
+      },
+      {
+        "image": "http://www.koreandrama.org/wp-content/uploads/2020/02/Hospital-Playlist6.jpg"
+      },
+      {
+        "image": "https://www.hellokpop.com/wp-content/uploads/2020/03/Hospital-Playlist-Cast3-660x400.jpg"
+      },
+      {
+        "image": "https://www.hellokpop.com/wp-content/uploads/2020/06/hospital-playlist-hellokpop-19-1024x723.jpg"
+      }
+    ],
+    "subtitle": "https://www.subscene.com/",
+    "subtitleRegion": "Indonesia",
+    "download": [
+      {
+        "name": "Season 01",
+        "count": 12,
+        "resolution": {
+          "value": [
+            {
+              "name": "360p",
+              "value": {
+                "episode": "episode_360",
+                "batch": "https://drive.google.com/uc?export=download&id=1puPPdTY-fp03a6jFsj7h6o7g2Kgv6flH"
+              }
+            },
+            {
+              "name": "480p",
+              "value": {
+                "episode": "episode_480",
+                "batch": "https://drive.google.com/uc?export=download&id=1puPPdTY-fp03a6jFsj7h6o7g2Kgv6flH"
+              }
+            },
+            {
+              "name": "720p",
+              "value": {
+                "episode": "episode_720",
+                "batch": "https://drive.google.com/uc?export=download&id=1puPPdTY-fp03a6jFsj7h6o7g2Kgv6flH"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "trailer": "trailer",
+    "rating": 8.8,
+    "duration": "1 hr. 30 min.",
+    "type": "TV Series",
+    "downloadable": 0,
+    "progress": "12, 2020 - May 28, 2020",
+    "cast": [
+      {
+        "name": "Lee Ik-Joon",
+        "realName": "Cho Jung-Seok",
+        "profile": "https://asianwiki.com/images/2/22/Hospital_Playlist-KD-Cho_Jung-Seok.jpg",
+        "cover": "https://asianwiki.com/images/2/28/Cho_Jung-Seok-10-25-2015.jpg",
+        "born": "December 26, 1980. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Twitter",
+            "name": "jojeol",
+            "value": "https://twitter.com/jojeol"
+          }
+        ],
+        "gender": "Male"
+      },
+      {
+        "name": "Ahn Jeong-Won",
+        "realName": "Yoo Yeon-Seok\t",
+        "profile": "https://asianwiki.com/images/0/00/Hospital_Playlist-KD-Yoo_Yeon-Seok.jpg",
+        "cover": "https://asianwiki.com/images/6/6e/Yoo_Yeon-Seok-The_Beauty_Inside-GV-4.jpg",
+        "born": "April 11, 1984. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "nayoo_yeonseokme",
+            "value": "https://www.instagram.com/yoo_yeonseok/"
+          },
+          {
+            "type": "Facebook",
+            "name": "YooYeonSeok",
+            "value": "https://www.facebook.com/YooYeonSeok/"
+          },
+          {
+            "type": "Twitter",
+            "name": "Yeonseok411",
+            "value": "https://twitter.com/Yeonseok411"
+          }
+        ],
+        "gender": "Male"
+      },
+      {
+        "name": "Kim Jun-Wan",
+        "realName": "Jung Kyoung-Ho",
+        "profile": "https://asianwiki.com/images/7/79/Hospital_Playlist-KD-Jung_Kyoung-Ho.jpg",
+        "cover": "https://asianwiki.com/images/6/6f/Jung_Kyoung-Ho-1983-p1.jpg",
+        "born": "August 31, 1983. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "jstar_allallj",
+            "value": "https://www.instagram.com/jstar_allallj/"
+          }
+        ],
+        "gender": "Male"
+      },
+      {
+        "name": "Yang Seok-Hyeong",
+        "realName": "Kim Dae-Myung",
+        "profile": "https://asianwiki.com/images/6/64/Hospital_Playlist-KD-Kim_Dae-Myung.jpg",
+        "cover": "https://asianwiki.com/images/6/62/Kim_Dae-Myung-10-24-2015.jpg",
+        "born": "December 16, 1980. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": null,
+            "name": "name",
+            "value": "value"
+          }
+        ],
+        "gender": "Male"
+      }
+    ],
+    "castDetails": "https://mydramalist.com/36269-doctor-playbook/cast",
+    "movieDetails": "https://mydramalist.com/36269-doctor-playbook",
+    "pinned": false
+  },
+  {
+    "id": 13,
+    "time": "",
+    "title": "Money Game",
+    "2ndTitle": "second_title",
+    "status": 1,
+    "description": "Money Game adalah drama keluaran tvN yang sudah tayang pada 15 Januari lalu dengan 16 jumlah episode. Drama ini bergenre thriller yang menceritakan kondisi Korea Selatan yang terpuruk akibat krisis finansial di Asia serta orang-orang yang mencoba untuk bertahan di tengah krisis.",
+    "categories": "Business, Drama, Political",
+    "tags": "Power Struggle, Corruption, Team Work, Strong Friendship, Bank, Investigation, Hardworking Female Lead, Greed, Office Worker, Injustice",
+    "country": "South Korea",
+    "epsCount": 16,
+    "seasonCount": 1,
+    "contentRating": 15,
+    "release": 2020,
+    "poster": "https://1.bp.blogspot.com/-sXuAIUPlKxY/XiKuuz5r04I/AAAAAAAAVE4/7DSC6votPRcLRfnV-lYVAD1al3UmL_CKgCLcBGAsYHQ/s1600/Drama%2BKorea%2BMoney%2BGame%2B2020.jpg",
+    
+    "cover": [
+      {
+        "image": "https://akcdn.detik.net.id/community/media/visual/2020/03/04/30ae7587-5b98-4e1a-b28f-7b790447608a.jpeg?a=1"
+      },
+      {
+        "image": "https://6.viki.io/image/10b3b90c49464aa3b34d69dd6118d11e.jpeg?s=900x600&e=t"
+      }
+    ],
+    "subtitle": "https://www.subscene.com/",
+    "subtitleRegion": "Indonesia",
+    "download": [
+      {
+        "name": "Season 01",
+        "count": 16,
+        "resolution": {
+          "value": [
+            {
+              "name": "360p",
+              "value": {
+                "episode": "episode_360",
+                "batch": "https://drive.google.com/uc?export=download&id=1puPPdTY-fp03a6jFsj7h6o7g2Kgv6flH"
+              }
+            },
+            {
+              "name": "480p",
+              "value": {
+                "episode": "episode_480",
+                "batch": "https://drive.google.com/uc?export=download&id=1puPPdTY-fp03a6jFsj7h6o7g2Kgv6flH"
+              }
+            },
+            {
+              "name": "720p",
+              "value": {
+                "episode": "episode_720",
+                "batch": "https://drive.google.com/uc?export=download&id=1puPPdTY-fp03a6jFsj7h6o7g2Kgv6flH"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "trailer": "trailer",
+    "rating": 7.9,
+    "duration": "1 hr. 10 min.",
+    "type": "TV Series",
+    "downloadable": 0,
+    "progress": "Jan 15, 2020 - Mar 5, 2020",
+    "cast": [
+      {
+        "name": "Chae Yi-Hun",
+        "realName": "Ko Soo",
+        "profile": "https://asianwiki.com/images/4/4e/Money_Game-Ko_Soo.jpg",
+        "cover": "https://asianwiki.com/images/f/fe/Ko_Soo-05-13-2017.jpg",
+        "born": "October 4, 1978. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "realgosoo",
+            "value": "https://www.instagram.com/realgosoo/"
+          }
+        ],
+        "gender": "Male"
+      },
+      {
+        "name": "Lee Hye-Joon",
+        "realName": "Shim Eun-Kyung",
+        "profile": "https://asianwiki.com/images/8/8f/Money_Game-Shim_Eun-Kyung.jpg",
+        "cover": "https://asianwiki.com/images/c/c8/Shim_Eun-Kyung-03-13-2016.jpg",
+        "born": "May 31, 1994. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": null,
+            "name": "name",
+            "value": "value"
+          }
+        ],
+        "gender": "Female"
+      },
+      {
+        "name": "Heo Jae",
+        "realName": "Lee Sung-Min",
+        "profile": "https://asianwiki.com/images/d/d4/Money_Game-Lee_Sung-Min.jpg",
+        "cover": "https://asianwiki.com/images/6/60/Lee_Sung-Min-01-30-2016.jpg",
+        "born": "December 4, 1968. South Korea",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "teoyoo",
+            "value": "https://www.instagram.com/teoyoo/"
+          }
+        ],
+        "gender": "Male"
+      },
+      {
+        "name": "Yoo Jin-Han",
+        "realName": "Yoo Teo",
+        "profile": "https://asianwiki.com/images/3/39/Money_Game-Yoo_Teo.jpg",
+        "cover": "https://asianwiki.com/images/9/9f/Yoo_Teo-p01.jpg",
+        "born": "April 11, 1981. Cologne, Germany",
+        "age": 0,
+"socialMedia": [
+          {
+            "type": "Instagram",
+            "name": "teoyoo",
+            "value": "https://www.instagram.com/teoyoo/"
+          }
+        ],
+        "gender": "Male"
+      }
+    ],
+    "castDetails": "https://mydramalist.com/34172-money-game/cast",
+    "movieDetails": "https://mydramalist.com/34172-money-game",
+    "pinned": false
+  }
+]
