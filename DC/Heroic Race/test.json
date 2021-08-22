@@ -1,0 +1,72 @@
+[
+  {
+    "lap": 1,
+    "body": [
+      {
+        "node": 1,
+        "mission": [
+          {
+            "title": "Feed Dragons",
+            "number": 4,
+            "pool": 4,
+            "wait": 0,
+            "chance": "10%",
+            "minTime": "No Minimum"
+          }
+        ]
+      },
+      {
+        "node": 2,
+        "mission": [
+          {
+            "title": "Collect Gold",
+            "number": 5,
+            "pool": 4,
+            "wait": 0,
+            "chance": "10%",
+            "minTime": "No Minimum"
+          }
+        ]
+      },
+      {
+        "node": 3,
+        "mission": [
+          {
+            "title": "Collect Food",
+            "number": 5,
+            "pool": 4,
+            "wait": 0,
+            "chance": "10%",
+            "minTime": "No Minimum"
+          }
+        ]
+      },
+      {
+        "node": 4,
+        "mission": [
+          {
+            "title": "Feed Dragons",
+            "number": 5,
+            "pool": 4,
+            "wait": 0,
+            "chance": "10%",
+            "minTime": "No Minimum"
+          }
+        ]
+      },
+      {
+        "node": 5,
+        "mission": [
+          {
+            "title": "Battle Dragons",
+            "number": 5,
+            "pool": 4,
+            "wait": 0,
+            "chance": "100%",
+            "minTime": "15 Minutes"
+          }
+        ]
+      }
+    ]
+  }
+]
