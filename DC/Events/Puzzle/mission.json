@@ -2,7 +2,7 @@
   {
     "id": 1,
     "point": 4,
-    "image": "image",
+    "image": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png",
     "value": [
       {
         "position": 1,
@@ -49,7 +49,7 @@
   {
     "id": 2,
     "point": 8,
-    "image": "image",
+    "image": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png",
     "value": [
       {
         "position": 1,
@@ -96,7 +96,7 @@
   {
     "id": 3,
     "point": 15,
-    "image": "image",
+    "image": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png",
     "value": [
       {
         "position": 1,
@@ -119,7 +119,7 @@
   {
     "id": 4,
     "point": 25,
-    "image": "image",
+    "image": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png",
     "value": [
       {
         "position": 1,
