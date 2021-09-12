@@ -1,0 +1,28 @@
+[
+  {
+    "title_events": "Current Events",
+    "value": [
+      {
+        "name": "Runner Island",
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/runner.png"
+      },
+      {
+        "name": "Dragon Academy",
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Grid/grid.png"
+      }
+    ]
+  },
+  {
+    "title_events": "Upcoming Events",
+    "value": [
+      {
+        "name": "Dark Arts Maze Island",
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/maze.png"
+      },
+      {
+        "name": "Heaven Heroic Race",
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/hr.png"
+      }
+    ]
+  }
+]
