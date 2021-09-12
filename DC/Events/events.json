@@ -22,7 +22,11 @@
       {
         "name": "Heaven Heroic Race",
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/hr.png"
-      }
+      },
+      {
+        "name": "Puzzle",
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/icon.png"
+      },
     ]
   }
 ]
