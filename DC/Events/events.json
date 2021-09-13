@@ -1,31 +1,68 @@
 [
   {
     "title_events": "Current Events",
+    "type": 0,
     "value": [
       {
-        "name": "Runner Island",
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/runner.png"
+        "name": "Dark Arts Maze Island",
+        "path": "maze",
+        "cooldown": 0,
+        "isFirstPage": true,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/maze.png"
       },
       {
-        "name": "Dragon Academy",
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Grid/grid.png"
+        "name": "Runner Island",
+        "path": "runner_island",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/runner.png"
       }
     ]
   },
   {
     "title_events": "Upcoming Events",
+    "type": 1,
     "value": [
       {
-        "name": "Dark Arts Maze Island",
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/maze.png"
-      },
-      {
         "name": "Heaven Heroic Race",
+        "path": "heroic_race",
+        "cooldown": 0,
+        "isFirstPage": false,
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/hr.png"
       },
       {
+        "name": "Dwellingdanger Fog Island",
+        "path": "fog_island",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Fog/fog.png"
+      },
+      {
+        "name": "Arctic Tower Island",
+        "path": "tower_island",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Tower/tower.png"
+      },
+      {
         "name": "Puzzle",
+        "path": "puzzle",
+        "cooldown": 0,
+        "isFirstPage": false,
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png"
+      }
+    ]
+  },
+  {
+    "title_events": "Past Events",
+    "type": 2,
+    "value": [
+      {
+        "name": "Dragon Academy",
+        "path": "grid",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Grid/grid.png"
       }
     ]
   }
