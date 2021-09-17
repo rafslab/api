@@ -19,6 +19,76 @@
         "node": 2,
         "mission": [
           {
+            "title": "Collect Gold",
+            "number": 5,
+            "pool": 5,
+            "wait": 0,
+            "chance": "1%",
+            "minTime": "No Minimum"
+          }
+        ]
+      },
+      {
+        "node": 3,
+        "mission": [
+          {
+            "title": "Collect Food",
+            "number": 4,
+            "pool": 4,
+            "wait": 0,
+            "chance": "10%",
+            "minTime": "No Minimum"
+          }
+        ]
+      },
+      {
+        "node": 4,
+        "mission": [
+          {
+            "title": "Feed Dragons",
+            "number": 6,
+            "pool": 5,
+            "wait": 5,
+            "chance": "10%",
+            "minTime": "5 minutes"
+          }
+        ]
+      },
+      {
+        "node": 5,
+        "mission": [
+          {
+            "title": "Battle Dragons",
+            "number": 2,
+            "pool": 2,
+            "wait": 0,
+            "chance": "100%",
+            "minTime": "15 Minutes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "lap": 2,
+    "body": [
+      {
+        "node": 1,
+        "mission": [
+          {
+            "title": "Feed Dragons",
+            "number": 4,
+            "pool": 4,
+            "wait": 0,
+            "chance": "10%",
+            "minTime": "No Minimum"
+          }
+        ]
+      },
+      {
+        "node": 2,
+        "mission": [
+          {
             "title": "Collect Food",
             "number": 6,
             "pool": 6,
@@ -88,76 +158,6 @@
             "wait": 0,
             "chance": "100%",
             "minTime": "No Minimum"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "lap": 2,
-    "body": [
-      {
-        "node": 1,
-        "mission": [
-          {
-            "title": "Feed Dragons",
-            "number": 4,
-            "pool": 4,
-            "wait": 0,
-            "chance": "10%",
-            "minTime": "No Minimum"
-          }
-        ]
-      },
-      {
-        "node": 2,
-        "mission": [
-          {
-            "title": "Collect Gold",
-            "number": 5,
-            "pool": 5,
-            "wait": 0,
-            "chance": "1%",
-            "minTime": "No Minimum"
-          }
-        ]
-      },
-      {
-        "node": 3,
-        "mission": [
-          {
-            "title": "Collect Food",
-            "number": 4,
-            "pool": 4,
-            "wait": 0,
-            "chance": "10%",
-            "minTime": "No Minimum"
-          }
-        ]
-      },
-      {
-        "node": 4,
-        "mission": [
-          {
-            "title": "Feed Dragons",
-            "number": 6,
-            "pool": 5,
-            "wait": 5,
-            "chance": "10%",
-            "minTime": "5 minutes"
-          }
-        ]
-      },
-      {
-        "node": 5,
-        "mission": [
-          {
-            "title": "Battle Dragons",
-            "number": 2,
-            "pool": 2,
-            "wait": 0,
-            "chance": "100%",
-            "minTime": "15 Minutes"
           }
         ]
       }
