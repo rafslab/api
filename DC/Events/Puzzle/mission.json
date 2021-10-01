@@ -90,6 +90,74 @@
       {
         "position": 10,
         "mission": "Collect 20000 Food"
+      },
+      {
+        "position": 11,
+        "mission": "Win 3 League battles"
+      },
+      {
+        "position": 12,
+        "mission": "Win 3 Arena battles"
+      },
+      {
+        "position": 13,
+        "mission": "Collect 15000 Food"
+      },
+      {
+        "position": 14,
+        "mission": "Win 3 League battles"
+      },
+      {
+        "position": 15,
+        "mission": "Win 3 League battles"
+      },
+      {
+        "position": 16,
+        "mission": "Collect 40000 Food"
+      },
+      {
+        "position": 17,
+        "mission": "Win 4 League battles"
+      },
+      {
+        "position": 18,
+        "mission": "Win 4 Arena battles"
+      },
+      {
+        "position": 19,
+        "mission": "Collect 100000 Food"
+      },
+      {
+        "position": 20,
+        "mission": "Win 4 League battles"
+      },
+      {
+        "position": 21,
+        "mission": "Win 4 Arena battles"
+      },
+      {
+        "position": 22,
+        "mission": "Collect 150000 Food"
+      },
+      {
+        "position": 23,
+        "mission": "Win 5 League battles"
+      },
+      {
+        "position": 24,
+        "mission": "Win 5 Arena battles"
+      },
+      {
+        "position": 25,
+        "mission": "Collect 200000 Food"
+      },
+      {
+        "position": 26,
+        "mission": "Win 6 League battles"
+      },
+      {
+        "position": 27,
+        "mission": "Win 5 Arena battles"
       }
     ]
   },
@@ -113,6 +181,46 @@
       {
         "position": 4,
         "mission": "Hatch 1 Dragons with Sea & Primal element"
+      },
+      {
+        "position": 5,
+        "mission": "Breed 2 Dragons with Dark & Ice element"
+      },
+      {
+        "position": 6,
+        "mission": "Hatch 2 Dragons with Dark & Ice element"
+      },
+      {
+        "position": 7,
+        "mission": "Breed 2 Dragons with Metal & Dark element"
+      },
+      {
+        "position": 8,
+        "mission": "Hatch 2 Dragons with Metal & Dark element"
+      },
+      {
+        "position": 9,
+        "mission": "Breed 3 Dragons with War element"
+      },
+      {
+        "position": 10,
+        "mission": "Hatch 3 Dragons with War element"
+      },
+      {
+        "position": 11,
+        "mission": "Breed 3 Dragons with Electric & Nature element"
+      },
+      {
+        "position": 12,
+        "mission": "Hatch 3 Dragons with Electric & Nature element"
+      },
+      {
+        "position": 13,
+        "mission": "Breed 3 Dragons with Terra & War element"
+      },
+      {
+        "position": 14,
+        "mission": "Hatch 3 Dragons with Terra & War element"
       }
     ]
   },
@@ -136,6 +244,22 @@
       {
         "position": 4,
         "mission": "Hatch 4 Dragons with Nature & War element"
+      },
+      {
+        "position": 5,
+        "mission": "Breed 5 Dragons with Pure & Ice element"
+      },
+      {
+        "position": 6,
+        "mission": "Hatch 5 Dragons with Pure & Ice element"
+      },
+      {
+        "position": 7,
+        "mission": "Breed 5 Dragons with Metal & Primal element"
+      },
+      {
+        "position": 8,
+        "mission": "Hatch 5 Dragons with Metal & Primal element"
       }
     ]
   }
