@@ -7,7 +7,7 @@
         "name": "Cosmic C Puzzle",
         "path": "puzzle",
         "cooldown": 0,
-        "isFirstPage": false,
+        "isFirstPage": true,
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png"
       },
       {
