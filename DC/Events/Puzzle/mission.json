@@ -18,7 +18,7 @@
       },
       {
         "position": 4,
-        "mission": "Collect 70000 Gold"
+        "mission": "Collect 75000 Gold"
       },
       {
         "position": 5,
@@ -43,6 +43,98 @@
       {
         "position": 10,
         "mission": "Collect 90000 Gold"
+      },
+      {
+        "position": 11,
+        "mission": "Feed 50000 Food"
+      },
+      {
+        "position": 12,
+        "mission": "Complete 1 Quest"
+      },
+      {
+        "position": 13,
+        "mission": "Collect 100000 Gold"
+      },
+      {
+        "position": 14,
+        "mission": "Feed 45000 Food"
+      },
+      {
+        "position": 15,
+        "mission": "Complete 2 Quest"
+      },
+      {
+        "position": 16,
+        "mission": "Collect 150000 Gold"
+      },
+      {
+        "position": 17,
+        "mission": "Feed 55000 Food"
+      },
+      {
+        "position": 18,
+        "mission": "Complete 2 Quest"
+      },
+      {
+        "position": 19,
+        "mission": "Collect 120000 Gold"
+      },
+      {
+        "position": 20,
+        "mission": "Feed 50000 Food"
+      },
+      {
+        "position": 21,
+        "mission": "Complete 3 Quest"
+      },
+      {
+        "position": 22,
+        "mission": "Collect 180000 Gold"
+      },
+      {
+        "position": 23,
+        "mission": "Feed 60000 Food"
+      },
+      {
+        "position": 24,
+        "mission": "Complete 3 Quest"
+      },
+      {
+        "position": 25,
+        "mission": "Collect 200000 Gold"
+      },
+      {
+        "position": 26,
+        "mission": "Feed 650000 Food"
+      },
+      {
+        "position": 27,
+        "mission": "Complete 3 Quest"
+      },
+      {
+        "position": 28,
+        "mission": "Collect 250000 Gold"
+      },
+      {
+        "position": 29,
+        "mission": "Feed 80000 Food"
+      },
+      {
+        "position": 30,
+        "mission": "Complete 3 Quest"
+      },
+      {
+        "position": 31,
+        "mission": "Collect 300000 Gold"
+      },
+      {
+        "position": 32,
+        "mission": "Feed 100000 Food"
+      },
+      {
+        "position": 33,
+        "mission": "Complete 4 Quest"
       }
     ]
   },
