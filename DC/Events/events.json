@@ -4,18 +4,18 @@
     "type": 0,
     "value": [
       {
-        "name": "Dark Arts Maze Island",
+        "name": "Cosmic C Puzzle",
+        "path": "puzzle",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png"
+      },
+      {
+        "name": "Retrowave Maze Island",
         "path": "maze",
         "cooldown": 0,
         "isFirstPage": true,
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/maze.png"
-      },
-      {
-        "name": "Runner Island",
-        "path": "runner_island",
-        "cooldown": 0,
-        "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/runner.png"
       }
     ]
   },
@@ -24,11 +24,31 @@
     "type": 1,
     "value": [
       {
-        "name": "Heaven Heroic Race",
-        "path": "heroic_race",
+        "name": "Runner Island",
+        "path": "runner_island",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/hr.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/runner.png"
+      },
+      {
+        "name": "Siegeofhouses Grid Island",
+        "path": "grid",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Grid/grid.png"
+      }
+    ]
+  },
+  {
+    "title_events": "Past Events",
+    "type": 2,
+    "value": [
+      {
+        "name": "Arctic Tower Island",
+        "path": "tower_island",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Tower/tower.png"
       },
       {
         "name": "Dwellingdanger Fog Island",
@@ -38,31 +58,11 @@
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Fog/fog.png"
       },
       {
-        "name": "Arctic Tower Island",
-        "path": "tower_island",
+        "name": "Heaven Heroic Race",
+        "path": "heroic_race",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Tower/tower.png"
-      },
-      {
-        "name": "Puzzle",
-        "path": "puzzle",
-        "cooldown": 0,
-        "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png"
-      }
-    ]
-  },
-  {
-    "title_events": "Past Events",
-    "type": 2,
-    "value": [
-      {
-        "name": "Dragon Academy",
-        "path": "grid",
-        "cooldown": 0,
-        "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Grid/grid.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/hr.png"
       }
     ]
   }
