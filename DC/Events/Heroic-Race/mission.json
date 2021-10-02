@@ -83,8 +83,8 @@
           {
             "title": "Feed Dragons",
             "icon": "url",
-            "number": 4,
-            "pool": 4,
+            "number": 8,
+            "pool": 8,
             "wait": 0,
             "chance": "10%",
             "minTime": "No Minimum"
@@ -118,10 +118,10 @@
         "node": 3,
         "mission": [
           {
-            "title": "Collect Food",
+            "title": "League Battles",
             "icon": "url",
-            "number": 4,
-            "pool": 4,
+            "number": 1,
+            "pool": 1,
             "wait": 0,
             "chance": "10%",
             "minTime": "No Minimum"
@@ -183,10 +183,19 @@
         "node": 1,
         "mission": [
           {
-            "title": "Feed Dragons",
+            "title": "Collect Gold",
             "icon": "url",
-            "number": 4,
-            "pool": 4,
+            "number": 11,
+            "pool": 11,
+            "wait": 0,
+            "chance": "10%",
+            "minTime": "No Minimum"
+          },
+          {
+            "title": "Collect Food",
+            "icon": "url",
+            "number": 8,
+            "pool": 8,
             "wait": 0,
             "chance": "10%",
             "minTime": "No Minimum"
@@ -197,12 +206,12 @@
         "node": 2,
         "mission": [
           {
-            "title": "Collect Gold",
+            "title": "League Battles",
             "icon": "url",
-            "number": 5,
-            "pool": 5,
+            "number": 2,
+            "pool": 2,
             "wait": 0,
-            "chance": "1%",
+            "chance": "100%",
             "minTime": "No Minimum"
           }
         ]
@@ -213,11 +222,20 @@
           {
             "title": "Collect Food",
             "icon": "url",
-            "number": 4,
-            "pool": 4,
+            "number": 9,
+            "pool": 9,
             "wait": 0,
             "chance": "10%",
             "minTime": "No Minimum"
+          },
+          {
+            "title": "Battle Dragons",
+            "icon": "url",
+            "number": 3,
+            "pool": 3,
+            "wait": 45,
+            "chance": "100%",
+            "minTime": "45 Minutes"
           }
         ]
       },
@@ -227,11 +245,20 @@
           {
             "title": "Feed Dragons",
             "icon": "url",
-            "number": 6,
-            "pool": 5,
+            "number": 12,
+            "pool": 9,
             "wait": 5,
             "chance": "10%",
             "minTime": "5 minutes"
+          },
+          {
+            "title": "Collect Food",
+            "icon": "url",
+            "number": 10,
+            "pool": 8,
+            "wait": 30,
+            "chance": "10%",
+            "minTime": "30 minutes"
           }
         ]
       },
@@ -239,12 +266,12 @@
         "node": 5,
         "mission": [
           {
-            "title": "Battle Dragons",
+            "title": "Breed Dragons",
             "icon": "url",
-            "number": 2,
-            "pool": 2,
+            "number": 3,
+            "pool": 3,
             "wait": 0,
-            "chance": "100%",
+            "chance": "10%",
             "minTime": "15 Minutes"
           }
         ]
@@ -258,10 +285,10 @@
         "node": 1,
         "mission": [
           {
-            "title": "Feed Dragons",
+            "title": "Collect Food",
             "icon": "url",
-            "number": 4,
-            "pool": 4,
+            "number": 21,
+            "pool": 21,
             "wait": 0,
             "chance": "10%",
             "minTime": "No Minimum"
@@ -272,12 +299,21 @@
         "node": 2,
         "mission": [
           {
-            "title": "Collect Gold",
+            "title": "Feed Dragons",
             "icon": "url",
-            "number": 5,
-            "pool": 5,
+            "number": 14,
+            "pool": 14,
             "wait": 0,
-            "chance": "1%",
+            "chance": "10%",
+            "minTime": "No Minimum"
+          },
+          {
+            "title": "Battle Dragons",
+            "icon": "url",
+            "number": 4,
+            "pool": 4,
+            "wait": 0,
+            "chance": "100%",
             "minTime": "No Minimum"
           }
         ]
@@ -286,12 +322,12 @@
         "node": 3,
         "mission": [
           {
-            "title": "Collect Food",
+            "title": "League Battles",
             "icon": "url",
             "number": 4,
             "pool": 4,
             "wait": 0,
-            "chance": "10%",
+            "chance": "100%",
             "minTime": "No Minimum"
           }
         ]
@@ -302,11 +338,20 @@
           {
             "title": "Feed Dragons",
             "icon": "url",
-            "number": 6,
-            "pool": 5,
-            "wait": 5,
+            "number": 16,
+            "pool": 10,
+            "wait": 16,
             "chance": "10%",
-            "minTime": "5 minutes"
+            "minTime": "1Hr 36 minutes"
+          },
+          {
+            "title": "Collect Gold",
+            "icon": "url",
+            "number": 14,
+            "pool": 9,
+            "wait": 19,
+            "chance": "1%",
+            "minTime": "1Hr 35 minutes"
           }
         ]
       },
@@ -316,11 +361,20 @@
           {
             "title": "Battle Dragons",
             "icon": "url",
-            "number": 2,
-            "pool": 2,
+            "number": 5,
+            "pool": 5,
             "wait": 0,
             "chance": "100%",
-            "minTime": "15 Minutes"
+            "minTime": "1Hr 15 Minutes"
+          },
+          {
+            "title": "Collect Food",
+            "icon": "url",
+            "number": 12,
+            "pool": 6,
+            "wait": 31,
+            "chance": "10%",
+            "minTime": "1Hr 15 Minutes"
           }
         ]
       }
@@ -333,10 +387,10 @@
         "node": 1,
         "mission": [
           {
-            "title": "Feed Dragons",
+            "title": "Breed Dragons",
             "icon": "url",
-            "number": 4,
-            "pool": 4,
+            "number": 6,
+            "pool": 6,
             "wait": 0,
             "chance": "10%",
             "minTime": "No Minimum"
@@ -347,10 +401,19 @@
         "node": 2,
         "mission": [
           {
+            "title": "Collect Food",
+            "icon": "url",
+            "number": 13,
+            "pool": 13,
+            "wait": 0,
+            "chance": "10%",
+            "minTime": "No Minimum"
+          },
+          {
             "title": "Collect Gold",
             "icon": "url",
-            "number": 5,
-            "pool": 5,
+            "number": 17,
+            "pool": 17,
             "wait": 0,
             "chance": "1%",
             "minTime": "No Minimum"
@@ -361,13 +424,13 @@
         "node": 3,
         "mission": [
           {
-            "title": "Collect Food",
+            "title": "Feed Dragon",
             "icon": "url",
-            "number": 4,
-            "pool": 4,
-            "wait": 0,
+            "number": 35,
+            "pool": 26,
+            "wait": 7,
             "chance": "10%",
-            "minTime": "No Minimum"
+            "minTime": "1Hr 3min"
           }
         ]
       },
@@ -375,13 +438,22 @@
         "node": 4,
         "mission": [
           {
-            "title": "Feed Dragons",
+            "title": "League Battles",
             "icon": "url",
-            "number": 6,
-            "pool": 5,
-            "wait": 5,
+            "number": 2,
+            "pool": 2,
+            "wait": 0,
+            "chance": "100%",
+            "minTime": "No Minimum"
+          },
+          {
+            "title": "Hatch Eggs",
+            "icon": "url",
+            "number": 2,
+            "pool": 2,
+            "wait": 0,
             "chance": "10%",
-            "minTime": "5 minutes"
+            "minTime": "No Minimum"
           }
         ]
       },
@@ -391,11 +463,20 @@
           {
             "title": "Battle Dragons",
             "icon": "url",
-            "number": 2,
-            "pool": 2,
+            "number": 4,
+            "pool": 4,
             "wait": 0,
             "chance": "100%",
-            "minTime": "15 Minutes"
+            "minTime": "5 Hours"
+          },
+          {
+            "title": "Collect Food",
+            "icon": "url",
+            "number": 14,
+            "pool": 9,
+            "wait": 16,
+            "chance": "100%",
+            "minTime": "1Hr 29min"
           }
         ]
       }
