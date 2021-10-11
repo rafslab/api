@@ -2,33 +2,14 @@
   {
     "title_events": "Current Events",
     "type": 0,
+    "visibility": 1,
     "value": [
       {
-        "name": "Cosmic C Puzzle",
+        "name": "Fantasy Puzzle",
         "path": "puzzle",
         "cooldown": 0,
         "isFirstPage": true,
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png"
-      },
-      {
-        "name": "Retrowave Maze Island",
-        "path": "maze",
-        "cooldown": 0,
-        "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/maze.png"
-      }
-    ]
-  },
-  {
-    "title_events": "Upcoming Events",
-    "type": 1,
-    "value": [
-      {
-        "name": "Runner Island",
-        "path": "runner_island",
-        "cooldown": 0,
-        "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/runner.png"
       },
       {
         "name": "Siegeofhouses Grid Island",
@@ -40,8 +21,30 @@
     ]
   },
   {
+    "title_events": "Upcoming Events",
+    "type": 1,
+    "visibility": 1,
+    "value": [
+      {
+        "name": "Runner Island",
+        "path": "runner_island",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/runner.png"
+      },
+      {
+        "name": "Siege Maze Island",
+        "path": "maze",
+        "cooldown": 0,
+        "isFirstPage": true,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/maze.png"
+      }
+    ]
+  },
+  {
     "title_events": "Past Events",
     "type": 2,
+    "visibility": 0,
     "value": [
       {
         "name": "Arctic Tower Island",
