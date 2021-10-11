@@ -183,7 +183,6 @@
         "amount":"Banquet Box",
         "points": 5300
       },
-      //30
       {
         "position": 31,
         "type": "siege-chest",
@@ -192,7 +191,7 @@
       },
       {
         "position": 32,
-        "type": "orbs",
+        "type": "orb",
         "amount":"40",
         "points": 5900
       },
@@ -216,7 +215,7 @@
       },
       {
         "position": 36,
-        "type": "orbs",
+        "type": "orb",
         "amount":"40",
         "points": 6800
       },
@@ -244,8 +243,6 @@
         "amount":"Banquet Box",
         "points": 7900
       },
-      //40
-      
       {
         "position": 41,
         "type": "mythical-egg-chest",
@@ -261,7 +258,7 @@
       
       {
         "position": 43,
-        "type": "orbs",
+        "type": "orb",
         "amount":"40",
         "points": 9500
       },
@@ -273,7 +270,7 @@
       },
       {
         "position": 45,
-        "type": "orbs",
+        "type": "orb",
         "amount":"80",
         "points": 11000
       },
@@ -308,6 +305,6 @@
         "points": 17000
       }
     ],
-    "mission": ""
+    "mission": "null"
   }
 ]
