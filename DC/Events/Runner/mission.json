@@ -23,7 +23,7 @@
       },
       {
         "position": 4,
-        "type": "chest",
+        "type": "castle-chest",
         "amount":"Castle Chest",
         "points": 400
       },
@@ -63,7 +63,6 @@
         "amount":"400",
         "points": 1000
       },
-      //10
       {
         "position": 11,
         "type": "food-m",
@@ -72,7 +71,7 @@
       },
       {
         "position": 12,
-        "type": "chest",
+        "type": "siege-chest",
         "amount":"Siege Chest",
         "points": 1200
       },
@@ -108,7 +107,7 @@
       },
       {
         "position": 18,
-        "type": "chest",
+        "type": "castle-chest",
         "amount":"Castle Chest",
         "points": 1900
       },
@@ -124,188 +123,189 @@
         "amount":"600",
         "points": 2300
       },
-      //20
       {
         "position": 21,
-        "type": "gems",
-        "amount":"5",
-        "points": 100
+        "type": "dragon",
+        "amount":"Arzur Dragon",
+        "points": 2500
       },
       {
         "position": 22,
-        "type": "food-m",
-        "amount":"Lunch Box",
-        "points": 200
+        "type": "food-mystery",
+        "amount":"Mystery Food Box",
+        "points": 2700
       },
       {
         "position": 23,
-        "type": "coins",
-        "amount":"200",
-        "points": 300
+        "type": "siege-chest",
+        "amount":"Siege Chest",
+        "points": 3000
       },
       {
         "position": 24,
-        "type": "chest",
-        "amount":"Castle Chest",
-        "points": 400
+        "type": "coins",
+        "amount":"1000",
+        "points": 3300
       },
       {
         "position": 25,
-        "type": "dragon",
-        "amount":"White Knight Dragon",
-        "points": 500
+        "type": "lucky-legendary-chest",
+        "amount":"Lucky Legendary Chest",
+        "points": 3600
       },
       {
         "position": 26,
-        "type": "coins",
-        "amount":"300",
-        "points": 600
+        "type": "food-l",
+        "amount":"Dinner Box",
+        "points": 3900
       },
       {
         "position": 27,
-        "type": "food-mystery",
-        "amount":"Mystery Food Box",
-        "points": 700
+        "type": "dragon",
+        "amount":"Battering Ram Dragon",
+        "points": 4500
       },
       {
         "position": 28,
         "type": "gems",
-        "amount":"10",
-        "points": 800
+        "amount":"20",
+        "points": 4700
       },
       {
         "position": 29,
-        "type": "dragon",
-        "amount":"Nature Knight Dragon",
-        "points": 900
+        "type": "castle-chest",
+        "amount":"Castle Chest",
+        "points": 5000
       },
       {
         "position": 30,
-        "type": "coins",
-        "amount":"400",
-        "points": 1000
+        "type": "food-xl",
+        "amount":"Banquet Box",
+        "points": 5300
       },
       //30
       {
         "position": 31,
-        "type": "gems",
-        "amount":"5",
-        "points": 100
+        "type": "siege-chest",
+        "amount":"Siege Chest",
+        "points": 5600
       },
       {
         "position": 32,
-        "type": "food-m",
-        "amount":"Lunch Box",
-        "points": 200
+        "type": "orbs",
+        "amount":"40",
+        "points": 5900
       },
       {
         "position": 33,
-        "type": "coins",
-        "amount":"200",
-        "points": 300
+        "type": "food-xl",
+        "amount":"Banquet Box",
+        "points": 6100
       },
       {
         "position": 34,
-        "type": "chest",
+        "type": "castle-chest",
         "amount":"Castle Chest",
-        "points": 400
+        "points": 6400
       },
       {
         "position": 35,
-        "type": "dragon",
-        "amount":"White Knight Dragon",
-        "points": 500
+        "type": "black-chest",
+        "amount":"Black Chest",
+        "points": 6600
       },
       {
         "position": 36,
-        "type": "coins",
-        "amount":"300",
-        "points": 600
+        "type": "orbs",
+        "amount":"40",
+        "points": 6800
       },
       {
         "position": 37,
-        "type": "food-mystery",
-        "amount":"Mystery Food Box",
-        "points": 700
+        "type": "siege-chest",
+        "amount":"Siege Chest",
+        "points": 7000
       },
       {
         "position": 38,
-        "type": "gems",
-        "amount":"10",
-        "points": 800
+        "type": "titan-chest",
+        "amount":"Titan Chest",
+        "points": 7300
       },
       {
         "position": 39,
-        "type": "dragon",
-        "amount":"Nature Knight Dragon",
-        "points": 900
+        "type": "castle-chest",
+        "amount":"Castle Chest",
+        "points": 7600
       },
       {
         "position": 40,
-        "type": "coins",
-        "amount":"400",
-        "points": 1000
+        "type": "food-xl",
+        "amount":"Banquet Box",
+        "points": 7900
       },
       //40
+      
       {
         "position": 41,
-        "type": "gems",
-        "amount":"5",
-        "points": 100
+        "type": "mythical-egg-chest",
+        "amount":"Mythical Egg Chest",
+        "points": 8300
       },
       {
         "position": 42,
-        "type": "food-m",
-        "amount":"Lunch Box",
-        "points": 200
+        "type": "siege-chest",
+        "amount":"Siege Chest",
+        "points": 8800
       },
+      
       {
         "position": 43,
-        "type": "coins",
-        "amount":"200",
-        "points": 300
+        "type": "orbs",
+        "amount":"40",
+        "points": 9500
       },
       {
         "position": 44,
-        "type": "chest",
-        "amount":"Castle Chest",
-        "points": 400
+        "type": "food-xl",
+        "amount":"Banquet Box",
+        "points": 10000
       },
       {
         "position": 45,
-        "type": "dragon",
-        "amount":"White Knight Dragon",
-        "points": 500
+        "type": "orbs",
+        "amount":"80",
+        "points": 11000
       },
       {
         "position": 46,
-        "type": "coins",
-        "amount":"300",
-        "points": 600
+        "type": "food-xl",
+        "amount":"Banquet Box",
+        "points": 12000
       },
       {
         "position": 47,
-        "type": "food-mystery",
-        "amount":"Mystery Food Box",
-        "points": 700
+        "type": "chest-token-all",
+        "amount":"Chest of All Tokens",
+        "points": 13000
       },
       {
         "position": 48,
-        "type": "gems",
-        "amount":"10",
-        "points": 800
+        "type": "orb",
+        "amount":"120",
+        "points": 14000
       },
       {
         "position": 49,
-        "type": "dragon",
-        "amount":"Nature Knight Dragon",
-        "points": 900
+        "type": "heroic-egg-chest",
+        "amount":"Heroic Egg Chest",
+        "points": 15500
       },
       {
         "position": 50,
-        "type": "coins",
-        "amount":"400",
-        "points": 1000
+        "type": "runner-chest",
+        "amount":"Runner Chest",
+        "points": 17000
       }
     ],
     "mission": ""
