@@ -9,14 +9,14 @@
         "path": "puzzle",
         "cooldown": 0,
         "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/puzzle.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/ic_puzzle.png"
       },
       {
         "name": "Siegeofhouses Grid Island",
         "path": "grid",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Grid/grid.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Grid/images/ic_grid.png"
       }
     ]
   },
@@ -30,14 +30,14 @@
         "path": "runner_island",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/runner.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
       },
       {
         "name": "Siege Maze Island",
         "path": "maze",
         "cooldown": 0,
         "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/maze.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/images/ic_maze.png"
       }
     ]
   },
@@ -51,21 +51,21 @@
         "path": "tower_island",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Tower/tower.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Tower/images/ic_tower.png"
       },
       {
         "name": "Dwellingdanger Fog Island",
         "path": "fog_island",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Fog/fog.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Fog/images/ic_fog.png"
       },
       {
         "name": "Heaven Heroic Race",
         "path": "heroic_race",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/hr.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/images/ic_heroic_race.png"
       }
     ]
   }
