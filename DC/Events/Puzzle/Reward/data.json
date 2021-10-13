@@ -1,0 +1,484 @@
+[
+  {
+    "position": 1,
+    "icon": [
+      {
+        "type": "GOLD",
+        "missions": [
+          {
+            "amount": 50,
+            "isLoop": false
+          },
+          {
+            "amount": 75,
+            "isLoop": false
+          },
+          {
+            "amount": 60,
+            "isLoop": false
+          },
+          {
+            "amount": 90,
+            "isLoop": false
+          },
+          {
+            "amount": 100,
+            "isLoop": false
+          },
+          {
+            "amount": 150,
+            "isLoop": false
+          },
+          {
+            "amount": 120,
+            "isLoop": false
+          },
+          {
+            "amount": 180,
+            "isLoop": false
+          },
+          {
+            "amount": 200,
+            "isLoop": false
+          },
+          {
+            "amount": 250,
+            "isLoop": true
+          },
+          {
+            "amount": 300,
+            "isLoop": true
+          }
+        ]
+      },
+      {
+        "type": "FEED",
+        "missions": [
+          {
+            "amount": 20,
+            "isLoop": false
+          },
+          {
+            "amount": 30,
+            "isLoop": false
+          },
+          {
+            "amount": 25,
+            "isLoop": false
+          },
+          {
+            "amount": 35,
+            "isLoop": false
+          },
+          {
+            "amount": 45,
+            "isLoop": false
+          },
+          {
+            "amount": 55,
+            "isLoop": false
+          },
+          {
+            "amount": 50,
+            "isLoop": false
+          },
+          {
+            "amount": 60,
+            "isLoop": false
+          },
+          {
+            "amount": 65,
+            "isLoop": false
+          },
+          {
+            "amount": 80,
+            "isLoop": true
+          },
+          {
+            "amount": 100,
+            "isLoop": true
+          }
+        ]
+      },
+      {
+        "type": "QUEST",
+        "missions": [
+          {
+            "amount": 1,
+            "isLoop": false
+          },
+          {
+            "amount": 1,
+            "isLoop": false
+          },
+          {
+            "amount": 1,
+            "isLoop": false
+          },
+          {
+            "amount": 1,
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "isLoop": true
+          },
+          {
+            "amount": 4,
+            "isLoop": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 2,
+    "icon": [
+      {
+        "type": "FOOD",
+        "missions": [
+          {
+            "amount": 4,
+            "isLoop": false
+          },
+          {
+            "amount": 10,
+            "isLoop": false
+          },
+          {
+            "amount": 8,
+            "isLoop": false
+          },
+          {
+            "amount": 20,
+            "isLoop": false
+          },
+          {
+            "amount": 15,
+            "isLoop": false
+          },
+          {
+            "amount": 40,
+            "isLoop": false
+          },
+          {
+            "amount": 100,
+            "isLoop": false
+          },
+          {
+            "amount": 150,
+            "isLoop": true
+          },
+          {
+            "amount": 200,
+            "isLoop": true
+          }
+        ]
+      },
+      {
+        "type": "LEAGUE",
+        "missions": [
+          {
+            "amount": 1,
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "isLoop": false
+          },
+          {
+            "amount": 4,
+            "isLoop": false
+          },
+          {
+            "amount": 4,
+            "isLoop": false
+          },
+          {
+            "amount": 5,
+            "isLoop": true
+          },
+          {
+            "amount": 6,
+            "isLoop": true
+          }
+        ]
+      },
+      {
+        "type": "ARENA",
+        "missions": [
+          {
+            "amount": 1,
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "isLoop": false
+          },
+          {
+            "amount": 4,
+            "isLoop": false
+          },
+          {
+            "amount": 4,
+            "isLoop": false
+          },
+          {
+            "amount": 5,
+            "isLoop": true
+          },
+          {
+            "amount": 5,
+            "isLoop": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 3,
+    "icon": [
+      {
+        "type": "BREED",
+        "missions": [
+          {
+            "amount": 1,
+            "elements": [
+              "electric"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 1,
+            "elements": [
+              "water",
+              "primal"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "elements": [
+              "dark",
+              "ice"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "elements": [
+              "metal",
+              "dark"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "elements": [
+              "war"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "elements": [
+              "nature",
+              "electric"
+            ],
+            "isLoop": true
+          },
+          {
+            "amount": 3,
+            "elements": [
+              "terra",
+              "war"
+            ],
+            "isLoop": true
+          }
+        ]
+      },
+      {
+        "type": "HATCH",
+        "missions": [
+          {
+            "amount": 1,
+            "elements": [
+              "electric"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 1,
+            "elements": [
+              "water",
+              "primal"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "elements": [
+              "dark",
+              "ice"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 2,
+            "elements": [
+              "metal",
+              "dark"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "elements": [
+              "war"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 3,
+            "elements": [
+              "nature",
+              "electric"
+            ],
+            "isLoop": true
+          },
+          {
+            "amount": 3,
+            "elements": [
+              "terra",
+              "war"
+            ],
+            "isLoop": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 4,
+    "icon": [
+      {
+        "type": "BREED",
+        "missions": [
+          {
+            "amount": 3,
+            "elements": [
+              "water",
+              "light"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 4,
+            "elements": [
+              "nature",
+              "war"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 5,
+            "elements": [
+              "pure",
+              "ice"
+            ],
+            "isLoop": true
+          },
+          {
+            "amount": 5,
+            "elements": [
+              "metal",
+              "primal"
+            ],
+            "isLoop": true
+          }
+        ]
+      },
+      {
+        "type": "BREED",
+        "missions": [
+          {
+            "amount": 3,
+            "elements": [
+              "water",
+              "light"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 4,
+            "elements": [
+              "nature",
+              "war"
+            ],
+            "isLoop": false
+          },
+          {
+            "amount": 5,
+            "elements": [
+              "pure",
+              "ice"
+            ],
+            "isLoop": true
+          },
+          {
+            "amount": 5,
+            "elements": [
+              "metal",
+              "primal"
+            ],
+            "isLoop": true
+          }
+        ]
+      }
+    ]
+  }
+]
