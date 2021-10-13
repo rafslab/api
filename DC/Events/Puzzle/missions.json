@@ -6,47 +6,47 @@
         "type": "GOLD",
         "missions": [
           {
-            "mission": 50,
+            "amount": 50,
             "isLoop": false
           },
           {
-            "mission": 75,
+            "amount": 75,
             "isLoop": false
           },
           {
-            "mission": 60,
+            "amount": 60,
             "isLoop": false
           },
           {
-            "mission": 90,
+            "amount": 90,
             "isLoop": false
           },
           {
-            "mission": 100,
+            "amount": 100,
             "isLoop": false
           },
           {
-            "mission": 150,
+            "amount": 150,
             "isLoop": false
           },
           {
-            "mission": 120,
+            "amount": 120,
             "isLoop": false
           },
           {
-            "mission": 180,
+            "amount": 180,
             "isLoop": false
           },
           {
-            "mission": 200,
+            "amount": 200,
             "isLoop": false
           },
           {
-            "mission": 250,
+            "amount": 250,
             "isLoop": true
           },
           {
-            "mission": 300,
+            "amount": 300,
             "isLoop": true
           }
         ]
@@ -55,47 +55,47 @@
         "type": "FEED",
         "missions": [
           {
-            "mission": 20,
+            "amount": 20,
             "isLoop": false
           },
           {
-            "mission": 30,
+            "amount": 30,
             "isLoop": false
           },
           {
-            "mission": 25,
+            "amount": 25,
             "isLoop": false
           },
           {
-            "mission": 35,
+            "amount": 35,
             "isLoop": false
           },
           {
-            "mission": 45,
+            "amount": 45,
             "isLoop": false
           },
           {
-            "mission": 55,
+            "amount": 55,
             "isLoop": false
           },
           {
-            "mission": 50,
+            "amount": 50,
             "isLoop": false
           },
           {
-            "mission": 60,
+            "amount": 60,
             "isLoop": false
           },
           {
-            "mission": 65,
+            "amount": 65,
             "isLoop": false
           },
           {
-            "mission": 80,
+            "amount": 80,
             "isLoop": true
           },
           {
-            "mission": 100,
+            "amount": 100,
             "isLoop": true
           }
         ]
@@ -104,47 +104,47 @@
         "type": "QUEST",
         "missions": [
           {
-            "mission": 1,
+            "amount": 1,
             "isLoop": false
           },
           {
-            "mission": 1,
+            "amount": 1,
             "isLoop": false
           },
           {
-            "mission": 1,
+            "amount": 1,
             "isLoop": false
           },
           {
-            "mission": 1,
+            "amount": 1,
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "isLoop": true
           },
           {
-            "mission": 4,
+            "amount": 4,
             "isLoop": true
           }
         ]
@@ -158,39 +158,39 @@
         "type": "FOOD",
         "missions": [
           {
-            "mission": 4,
+            "amount": 4,
             "isLoop": false
           },
           {
-            "mission": 10,
+            "amount": 10,
             "isLoop": false
           },
           {
-            "mission": 8,
+            "amount": 8,
             "isLoop": false
           },
           {
-            "mission": 20,
+            "amount": 20,
             "isLoop": false
           },
           {
-            "mission": 15,
+            "amount": 15,
             "isLoop": false
           },
           {
-            "mission": 40,
+            "amount": 40,
             "isLoop": false
           },
           {
-            "mission": 100,
+            "amount": 100,
             "isLoop": false
           },
           {
-            "mission": 150,
+            "amount": 150,
             "isLoop": true
           },
           {
-            "mission": 200,
+            "amount": 200,
             "isLoop": true
           }
         ]
@@ -199,39 +199,39 @@
         "type": "LEAGUE",
         "missions": [
           {
-            "mission": 1,
+            "amount": 1,
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "isLoop": false
           },
           {
-            "mission": 4,
+            "amount": 4,
             "isLoop": false
           },
           {
-            "mission": 4,
+            "amount": 4,
             "isLoop": false
           },
           {
-            "mission": 5,
+            "amount": 5,
             "isLoop": true
           },
           {
-            "mission": 6,
+            "amount": 6,
             "isLoop": true
           }
         ]
@@ -240,39 +240,39 @@
         "type": "ARENA",
         "missions": [
           {
-            "mission": 1,
+            "amount": 1,
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "isLoop": false
           },
           {
-            "mission": 4,
+            "amount": 4,
             "isLoop": false
           },
           {
-            "mission": 4,
+            "amount": 4,
             "isLoop": false
           },
           {
-            "mission": 5,
+            "amount": 5,
             "isLoop": true
           },
           {
-            "mission": 5,
+            "amount": 5,
             "isLoop": true
           }
         ]
@@ -286,14 +286,14 @@
         "type": "BREED",
         "missions": [
           {
-            "mission": 1,
+            "amount": 1,
             "elements": [
               "electric"
             ],
             "isLoop": false
           },
           {
-            "mission": 1,
+            "amount": 1,
             "elements": [
               "water",
               "primal"
@@ -301,7 +301,7 @@
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "elements": [
               "dark",
               "ice"
@@ -309,7 +309,7 @@
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "elements": [
               "metal",
               "dark"
@@ -317,14 +317,14 @@
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "elements": [
               "war"
             ],
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "elements": [
               "nature",
               "electric"
@@ -332,7 +332,7 @@
             "isLoop": true
           },
           {
-            "mission": 3,
+            "amount": 3,
             "elements": [
               "terra",
               "war"
@@ -345,14 +345,14 @@
         "type": "HATCH",
         "missions": [
           {
-            "mission": 1,
+            "amount": 1,
             "elements": [
               "electric"
             ],
             "isLoop": false
           },
           {
-            "mission": 1,
+            "amount": 1,
             "elements": [
               "water",
               "primal"
@@ -360,7 +360,7 @@
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "elements": [
               "dark",
               "ice"
@@ -368,7 +368,7 @@
             "isLoop": false
           },
           {
-            "mission": 2,
+            "amount": 2,
             "elements": [
               "metal",
               "dark"
@@ -376,14 +376,14 @@
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "elements": [
               "war"
             ],
             "isLoop": false
           },
           {
-            "mission": 3,
+            "amount": 3,
             "elements": [
               "nature",
               "electric"
@@ -391,7 +391,7 @@
             "isLoop": true
           },
           {
-            "mission": 3,
+            "amount": 3,
             "elements": [
               "terra",
               "war"
@@ -409,7 +409,7 @@
         "type": "BREED",
         "missions": [
           {
-            "mission": 3,
+            "amount": 3,
             "elements": [
               "water",
               "light"
@@ -417,7 +417,7 @@
             "isLoop": false
           },
           {
-            "mission": 4,
+            "amount": 4,
             "elements": [
               "nature",
               "war"
@@ -425,7 +425,7 @@
             "isLoop": false
           },
           {
-            "mission": 5,
+            "amount": 5,
             "elements": [
               "pure",
               "ice"
@@ -433,7 +433,7 @@
             "isLoop": true
           },
           {
-            "mission": 5,
+            "amount": 5,
             "elements": [
               "metal",
               "primal"
@@ -446,7 +446,7 @@
         "type": "BREED",
         "missions": [
           {
-            "mission": 3,
+            "amount": 3,
             "elements": [
               "water",
               "light"
@@ -454,7 +454,7 @@
             "isLoop": false
           },
           {
-            "mission": 4,
+            "amount": 4,
             "elements": [
               "nature",
               "war"
@@ -462,7 +462,7 @@
             "isLoop": false
           },
           {
-            "mission": 5,
+            "amount": 5,
             "elements": [
               "pure",
               "ice"
@@ -470,7 +470,7 @@
             "isLoop": true
           },
           {
-            "mission": 5,
+            "amount": 5,
             "elements": [
               "metal",
               "primal"
