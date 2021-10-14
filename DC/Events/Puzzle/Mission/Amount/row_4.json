@@ -1,0 +1,54 @@
+[
+  {
+    "row": 3,
+    "row_2": 3,
+    "elements": [
+      {
+        "value": "sea"
+      },
+      {
+        "value": "light"
+      }
+    ],
+    "loop": false
+  },
+  {
+    "row": 4,
+    "row_2": 4,
+    "elements": [
+      {
+        "value": "nature"
+      },
+      {
+        "value": "war"
+      }
+    ],
+    "loop": false
+  },
+  {
+    "row": 5,
+    "row_2": 5,
+    "elements": [
+      {
+        "value": "pure"
+      },
+      {
+        "value": "ice"
+      }
+    ],
+    "loop": true
+  },
+  {
+    "row": 5,
+    "row_2": 5,
+    "elements": [
+      {
+        "value": "metal"
+      },
+      {
+        "value": "primal"
+      }
+    ],
+    "loop": true
+  }
+]
