@@ -2,36 +2,86 @@
   {
     "row": 1,
     "row_2": 1,
+    "elements": [
+      {
+        "value": "electric"
+      }
+    ],
     "loop": false
   },
   {
     "row": 1,
     "row_2": 1,
+    "elements": [
+      {
+        "value": "water"
+      },
+      {
+        "value": "primal"
+      }
+    ],
     "loop": false
   },
   {
     "row": 2,
     "row_2": 2,
+    "elements": [
+      {
+        "value": "dark"
+      },
+      {
+        "value": "ice"
+      }
+    ],
     "loop": false
   },
   {
     "row": 2,
     "row_2": 2,
+    "elements": [
+      {
+        "value": "metal"
+      },
+      {
+        "value": "dark"
+      }
+    ],
     "loop": false
   },
   {
     "row": 3,
     "row_2": 3,
+    "elements": [
+      {
+        "value": "war"
+      }
+    ],
     "loop": false
   },
   {
     "row": 3,
     "row_2": 3,
+    "elements": [
+      {
+        "value": "nature"
+      },
+      {
+        "value": "electric"
+      }
+    ],
     "loop": true
   },
   {
     "row": 3,
     "row_2": 3,
+    "elements": [
+      {
+        "value": "terra"
+      },
+      {
+        "value": "war"
+      }
+    ],
     "loop": true
   }
 ]
