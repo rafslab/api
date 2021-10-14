@@ -288,54 +288,78 @@
           {
             "amount": 1,
             "elements": [
-              "electric"
+              {
+                "value": "electric"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 1,
             "elements": [
-              "water",
-              "primal"
+              {
+                "value": "water"
+              },
+              {
+                "value": "primal"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 2,
             "elements": [
-              "dark",
-              "ice"
+              {
+                "value": "dark"
+              },
+              {
+                "value": "ice"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 2,
             "elements": [
-              "metal",
-              "dark"
+              {
+                "value": "metal"
+              },
+              {
+                "value": "dark"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 3,
             "elements": [
-              "war"
+              {
+                "value": "war"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 3,
             "elements": [
-              "nature",
-              "electric"
+              {
+                "value": "nature"
+              },
+              {
+                "value": "electric"
+              }
             ],
             "isLoop": true
           },
           {
             "amount": 3,
             "elements": [
-              "terra",
-              "war"
+              {
+                "value": "terra"
+              },
+              {
+                "value": "war"
+              }
             ],
             "isLoop": true
           }
@@ -347,54 +371,78 @@
           {
             "amount": 1,
             "elements": [
-              "electric"
+              {
+                "value": "electric"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 1,
             "elements": [
-              "water",
-              "primal"
+              {
+                "value": "water"
+              },
+              {
+                "value": "primal"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 2,
             "elements": [
-              "dark",
-              "ice"
+              {
+                "value": "dark"
+              },
+              {
+                "value": "ice"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 2,
             "elements": [
-              "metal",
-              "dark"
+              {
+                "value": "metal"
+              },
+              {
+                "value": "dark"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 3,
             "elements": [
-              "war"
+              {
+                "value": "war"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 3,
             "elements": [
-              "nature",
-              "electric"
+              {
+                "value": "nature"
+              },
+              {
+                "value": "electric"
+              }
             ],
             "isLoop": true
           },
           {
             "amount": 3,
             "elements": [
-              "terra",
-              "war"
+              {
+                "value": "terra"
+              },
+              {
+                "value": "war"
+              }
             ],
             "isLoop": true
           }
@@ -411,8 +459,12 @@
           {
             "amount": 3,
             "elements": [
-              "water",
-              "light"
+              {
+                "value": "water"
+              },
+              {
+                "value": "light"
+              }
             ],
             "isLoop": false
           },
@@ -427,16 +479,24 @@
           {
             "amount": 5,
             "elements": [
-              "pure",
-              "ice"
+              {
+                "value": "pure"
+              },
+              {
+                "value": "ice"
+              }
             ],
             "isLoop": true
           },
           {
             "amount": 5,
             "elements": [
-              "metal",
-              "primal"
+              {
+                "value": "metal"
+              },
+              {
+                "value": "primal"
+              }
             ],
             "isLoop": true
           }
@@ -448,32 +508,48 @@
           {
             "amount": 3,
             "elements": [
-              "water",
-              "light"
+              {
+                "value": "water"
+              },
+              {
+                "value": "light"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 4,
             "elements": [
-              "nature",
-              "war"
+              {
+                "value": "nature"
+              },
+              {
+                "value": "war"
+              }
             ],
             "isLoop": false
           },
           {
             "amount": 5,
             "elements": [
-              "pure",
-              "ice"
+              {
+                "value": "pure"
+              },
+              {
+                "value": "ice"
+              }
             ],
             "isLoop": true
           },
           {
             "amount": 5,
             "elements": [
-              "metal",
-              "primal"
+              {
+                "value": "metal"
+              },
+              {
+                "value": "primal"
+              }
             ],
             "isLoop": true
           }
