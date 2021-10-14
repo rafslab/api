@@ -471,8 +471,12 @@
           {
             "amount": 4,
             "elements": [
-              "nature",
-              "war"
+              {
+                "value": "nature"
+              },
+              {
+                "value": "war"
+              }
             ],
             "isLoop": false
           },
