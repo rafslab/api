@@ -4,7 +4,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 55,
         "symbol": 5
@@ -21,7 +21,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -38,7 +38,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -55,7 +55,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -72,7 +72,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -89,7 +89,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -106,7 +106,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -123,7 +123,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -140,7 +140,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -157,7 +157,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 55,
         "symbol": 5
@@ -174,7 +174,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -191,7 +191,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -208,7 +208,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -225,7 +225,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
@@ -242,7 +242,7 @@
     "title": "Light Chest",
     "icon": "light-chest",
     "reward": 1,
-    "mission": [
+    "item": [
       {
         "amount": 75,
         "symbol": 5
