@@ -1,0 +1,299 @@
+[
+  {
+    "position": 1,
+    "title": "Mystery Food Chest",
+    "icon": "food-mystery",
+    "reward": 1,
+    "mission": [
+      {
+        "amount": 15,
+        "symbol": 2
+      }
+    ],
+    "loop": true
+  },
+  {
+    "position": 2,
+    "title": "Epic Jokers Orbs",
+    "reward": 5,
+    "icon": "chest_joker_epic",
+    "mission": [
+      {
+        "amount": 25,
+        "symbol": 2
+      }
+    ],
+    "loop": true
+  },
+  {
+    "position": 3,
+    "title": "Coins",
+    "reward": 250,
+    "icon": "grid-maze-coins",
+    "mission": [
+      {
+        "amount": 45,
+        "symbol": 2
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 4,
+    "title": "Castle Chest",
+    "reward": 1,
+    "icon": "castle-chest",
+    "mission": [
+      {
+        "amount": 45,
+        "symbol": 2
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 5,
+    "title": "Legendary Jokers Orbs",
+    "reward": 5,
+    "icon": "chest_joker_legendary",
+    "mission": [
+      {
+        "amount": 45,
+        "symbol": 2
+      }
+    ],
+    "loop": false
+  },
+  //Wave 6-10
+  {
+    "position": 6,
+    "title": "Coins",
+    "reward": 500,
+    "icon": "grid-maze-coins",
+    "mission": [
+      {
+        "amount": 45,
+        "symbol": 2
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 7,
+    "title": "Siege Chest",
+    "reward": 1,
+    "icon": "siege-chest",
+    "mission": [
+      {
+        "amount": 45,
+        "symbol": 2
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 8,
+    "title": "Legendary Jokers Orbs",
+    "reward": 5,
+    "icon": "chest_joker_legendary",
+    "mission": [
+      {
+        "amount": 45,
+        "symbol": 2
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 9,
+    "title": "Coins",
+    "reward": 750,
+    "icon": "grid-maze-coins",
+    "mission": [
+      {
+        "amount": 45,
+        "symbol": 2
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 10,
+    "title": "Mystery Food Chest",
+    "icon": "food-mystery",
+    "reward": 1,
+    "mission": [
+      {
+        "amount": 60,
+        "symbol": 2
+      }
+    ],
+    "loop": true
+  },
+  //Wave 11-15
+  
+  {
+    "position": 11,
+    "title": "Legendary Jokers Orbs",
+    "reward": 5,
+    "icon": "chest_joker_legendary",
+    "mission": [
+      {
+        "amount": 60,
+        "symbol": 2
+      }
+    ],
+    "loop": true
+  },
+  {
+    "position": 12,
+    "title": "Coins",
+    "reward": 1000,
+    "icon": "grid-maze-coins",
+    "mission": [
+      {
+        "amount": 60,
+        "symbol": 2
+      }
+    ],
+    "loop": true
+  },
+  {
+    "position": 13,
+    "title": "Castle Chest",
+    "reward": 1,
+    "icon": "castle-chest",
+    "mission": [
+      {
+        "amount": 40,
+        "symbol": 2
+      },
+      {
+        "amount": 40,
+        "symbol": 4
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 14,
+    "title": "Legendary Jokers Orbs",
+    "reward": 5,
+    "icon": "chest_joker_legendary",
+    "mission": [
+      {
+        "amount": 40,
+        "symbol": 2
+      },
+      {
+        "amount": 40,
+        "symbol": 4
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 15,
+    "title": "Coins",
+    "reward": 1500,
+    "icon": "grid-maze-coins",
+    "mission": [
+      {
+        "amount": 40,
+        "symbol": 2
+      },
+      {
+        "amount": 40,
+        "symbol": 4
+      }
+    ],
+    "loop": false
+  },
+  
+  //Wave 16-20
+  {
+    "position": 16,
+    "title": "Mystery Food Chest",
+    "icon": "food-mystery",
+    "reward": 1,
+    "mission": [
+      {
+        "amount": 75,
+        "symbol": 2
+      },
+      {
+        "amount": 75,
+        "symbol": 4
+      }
+    ],
+    "loop": true
+  },
+  {
+    "position": 17,
+    "title": "Heroic Jokers Orbs",
+    "reward": 5,
+    "icon": "chest_joker_heroic",
+    "mission": [
+      {
+        "amount": 75,
+        "symbol": 2
+      },
+      {
+        "amount": 75,
+        "symbol": 4
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 18,
+    "title": "Mystery Food Chest",
+    "icon": "food-mystery",
+    "reward": 1,
+    "mission": [
+      {
+        "amount": 75,
+        "symbol": 2
+      },
+      {
+        "amount": 75,
+        "symbol": 4
+      }
+    ],
+    "loop": true
+  },
+  {
+    "position": 19,
+    "title": "Coins",
+    "reward": 1500,
+    "icon": "grid-maze-coins",
+    "mission": [
+      {
+        "amount": 75,
+        "symbol": 2
+      },
+      {
+        "amount": 75,
+        "symbol": 4
+      }
+    ],
+    "loop": false
+  },
+  {
+    "position": 20,
+    "title": "Heroic Jokers Orbs",
+    "reward": 5,
+    "icon": "chest_joker_heroic",
+    "mission": [
+      {
+        "amount": 75,
+        "symbol": 2
+      },
+      {
+        "amount": 75,
+        "symbol": 4
+      }
+    ],
+    "loop": false
+  }
+]
