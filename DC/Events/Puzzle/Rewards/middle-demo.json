@@ -253,56 +253,5 @@
       }
     ],
     "loop": true
-  },
-  {
-    "position": 16,
-    "title": "Light Chest",
-    "icon": "light-chest",
-    "reward": 1,
-    "mission": [
-      {
-        "amount": 75,
-        "symbol": 5
-      },
-      {
-        "amount": 75,
-        "symbol": 1
-      }
-    ],
-    "loop": true
-  },
-  {
-    "position": 17,
-    "title": "Light Chest",
-    "icon": "light-chest",
-    "reward": 1,
-    "mission": [
-      {
-        "amount": 75,
-        "symbol": 5
-      },
-      {
-        "amount": 75,
-        "symbol": 1
-      }
-    ],
-    "loop": true
-  },
-  {
-    "position": 18,
-    "title": "Light Chest",
-    "icon": "light-chest",
-    "reward": 1,
-    "mission": [
-      {
-        "amount": 75,
-        "symbol": 5
-      },
-      {
-        "amount": 75,
-        "symbol": 1
-      }
-    ],
-    "loop": true
   }
 ]
