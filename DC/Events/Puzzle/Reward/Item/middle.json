@@ -18,8 +18,8 @@
   },
   {
     "position": 2,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Dark Chest",
+    "icon": "dark-chest",
     "reward": 1,
     "item": [
       {
@@ -35,8 +35,8 @@
   },
   {
     "position": 3,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Legendary Chest",
+    "icon": "legendary-chest",
     "reward": 1,
     "item": [
       {
@@ -52,8 +52,8 @@
   },
   {
     "position": 4,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Pileofleaves Chest",
+    "icon": "pileofleaves-chest",
     "reward": 1,
     "item": [
       {
@@ -65,20 +65,20 @@
         "symbol": 1
       }
     ],
-    "loop": true
+    "loop": false
   },
   {
     "position": 5,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Flame Chest",
+    "icon": "flame-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 75,
+        "amount": 120,
         "symbol": 5
       },
       {
-        "amount": 75,
+        "amount": 120,
         "symbol": 1
       }
     ],
@@ -86,16 +86,16 @@
   },
   {
     "position": 6,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Ice Chest",
+    "icon": "ice-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 75,
+        "amount": 120,
         "symbol": 5
       },
       {
-        "amount": 75,
+        "amount": 120,
         "symbol": 1
       }
     ],
@@ -103,16 +103,16 @@
   },
   {
     "position": 7,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Primal Chest",
+    "icon": "primal-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 75,
+        "amount": 120,
         "symbol": 5
       },
       {
-        "amount": 75,
+        "amount": 120,
         "symbol": 1
       }
     ],
@@ -120,33 +120,33 @@
   },
   {
     "position": 8,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "8th Anniversary Chest",
+    "icon": "8th-anniversary-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 75,
+        "amount": 150,
         "symbol": 5
       },
       {
-        "amount": 75,
+        "amount": 150,
         "symbol": 1
       }
     ],
-    "loop": true
+    "loop": false
   },
   {
     "position": 9,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Legendary Chest",
+    "icon": "legendary-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 75,
+        "amount": 150,
         "symbol": 5
       },
       {
-        "amount": 75,
+        "amount": 150,
         "symbol": 1
       }
     ],
@@ -154,25 +154,25 @@
   },
   {
     "position": 10,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Titan Chest",
+    "icon": "titan-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 55,
+        "amount": 150,
         "symbol": 5
       },
       {
-        "amount": 55,
+        "amount": 150,
         "symbol": 1
       }
     ],
-    "loop": true
+    "loop": false
   },
   {
     "position": 11,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Pileofleaves Chest",
+    "icon": "pileofleaves-chest",
     "reward": 1,
     "item": [
       {
@@ -184,29 +184,29 @@
         "symbol": 1
       }
     ],
-    "loop": true
+    "loop": false
   },
   {
     "position": 12,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Black Chest",
+    "icon": "black-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 75,
+        "amount": 225,
         "symbol": 5
       },
       {
-        "amount": 75,
+        "amount": 225,
         "symbol": 1
       }
     ],
-    "loop": true
+    "loop": false
   },
   {
     "position": 13,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Pileofleaves Chest",
+    "icon": "pileofleaves-chest",
     "reward": 1,
     "item": [
       {
@@ -218,29 +218,29 @@
         "symbol": 1
       }
     ],
-    "loop": true
+    "loop": false
   },
   {
     "position": 14,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Celebration Chest",
+    "icon": "celebration-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 75,
+        "amount": 225,
         "symbol": 5
       },
       {
-        "amount": 75,
+        "amount": 225,
         "symbol": 1
       }
     ],
-    "loop": true
+    "loop": false
   },
   {
     "position": 15,
-    "title": "Light Chest",
-    "icon": "light-chest",
+    "title": "Pileofleaves Chest",
+    "icon": "pileofleaves-chest",
     "reward": 1,
     "item": [
       {
@@ -252,6 +252,6 @@
         "symbol": 1
       }
     ],
-    "loop": true
+    "loop": false
   }
 ]
