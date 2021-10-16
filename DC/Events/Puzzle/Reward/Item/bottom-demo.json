@@ -1,8 +1,8 @@
 [
   {
     "position": 1,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "T-Rex Dragon",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_1120_dragon_trex_b_0.png",
     "reward": 1,
     "item": [
       {
@@ -18,16 +18,16 @@
   },
   {
     "position": 2,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "Nevergrow Dragon",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_1552_dragon_nevergrow_0.png",
     "reward": 1,
     "item": [
       {
-        "amount": 70,
+        "amount": 120,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 120,
         "symbol": 0
       }
     ],
@@ -35,16 +35,16 @@
   },
   {
     "position": 3,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "Mountainogre Dragon",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2582_dragon_mountainogre_0.png",
     "reward": 1,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
@@ -52,16 +52,16 @@
   },
   {
     "position": 4,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "Autumn Forest Spirit",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2568_dragon_autumnforestspirit_0.png",
     "reward": 1,
     "item": [
       {
-        "amount": 70,
+        "amount": 300,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 300,
         "symbol": 0
       }
     ],
@@ -69,16 +69,16 @@
   },
   {
     "position": 5,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "Lake Guardian Dragon",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2782_dragon_lakeguardian_0.png",
     "reward": 1,
     "item": [
       {
-        "amount": 70,
+        "amount": 420,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 420,
         "symbol": 0
       }
     ],
@@ -86,16 +86,16 @@
   },
   {
     "position": 6,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "Pile Of Leaves Chest",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_523_chest_pileofleaves.png",
     "reward": 1,
     "item": [
       {
-        "amount": 70,
+        "amount": 75,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 75,
         "symbol": 0
       }
     ],
@@ -103,50 +103,50 @@
   },
   {
     "position": 7,
-    "title": "Dragon",
-    "icon": "default_dragon",
-    "reward": 1,
+    "title": "Orbs Autumn Forest Spirit",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2568_dragon_autumnforestspirit_3.png",
+    "reward": 40,
     "item": [
       {
-        "amount": 70,
+        "amount": 150,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 150,
         "symbol": 0
       }
     ],
-    "loop": false
+    "loop": true
   },
   {
     "position": 8,
-    "title": "Dragon",
-    "icon": "default_dragon",
-    "reward": 1,
+    "title": "Orbs Lake Guardian Dragon",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2782_dragon_lakeguardian_3.png",
+    "reward": 40,
     "item": [
       {
-        "amount": 70,
+        "amount": 180,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 180,
         "symbol": 0
       }
     ],
-    "loop": false
+    "loop": true
   },
   {
     "position": 9,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "Pile Of Leaves Chest",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_523_chest_pileofleaves.png",
     "reward": 1,
     "item": [
       {
-        "amount": 70,
+        "amount": 75,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 75,
         "symbol": 0
       }
     ],
@@ -154,16 +154,16 @@
   },
   {
     "position": 10,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "Mythical Chest",
+    "icon": "mythical-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
@@ -171,50 +171,50 @@
   },
   {
     "position": 11,
-    "title": "Dragon",
-    "icon": "default_dragon",
-    "reward": 1,
+    "title": "Orbs Autumn Forest Spirit",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2568_dragon_autumnforestspirit_3.png",
+    "reward": 80,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
-    "loop": false
+    "loop": true
   },
   {
     "position": 12,
-    "title": "Dragon",
-    "icon": "default_dragon",
-    "reward": 1,
+    "title": "Orbs Lake Guardian Dragon",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2782_dragon_lakeguardian_3.png",
+    "reward": 80,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
-    "loop": false
+    "loop": true
   },
   {
     "position": 13,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "Titan Egg Chest",
+    "icon": "titan-egg-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
@@ -222,50 +222,50 @@
   },
   {
     "position": 14,
-    "title": "Dragon",
-    "icon": "default_dragon",
-    "reward": 1,
+    "title": "Orbs Autumn Forest Spirit",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2568_dragon_autumnforestspirit_3.png",
+    "reward": 80,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
-    "loop": false
+    "loop": true
   },
   {
     "position": 15,
-    "title": "Dragon",
-    "icon": "default_dragon",
-    "reward": 1,
+    "title": "Orbs Lake Guardian Dragon",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2782_dragon_lakeguardian_3.png",
+    "reward": 80,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
-    "loop": false
+    "loop": true
   },
   {
     "position": 16,
-    "title": "Dragon",
-    "icon": "default_dragon",
+    "title": "Heroic Egg Chest",
+    "icon": "heroic-egg-chest",
     "reward": 1,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
@@ -273,16 +273,16 @@
   },
   {
     "position": 17,
-    "title": "Dragon",
-    "icon": "default_dragon",
-    "reward": 1,
+    "title": "Orbs Autumn Forest Spirit",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2568_dragon_autumnforestspirit_3.png",
+    "reward": 120,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
@@ -290,33 +290,16 @@
   },
   {
     "position": 18,
-    "title": "Dragon",
-    "icon": "default_dragon",
-    "reward": 1,
+    "title": "Orbs Lake Guardian Dragon",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2782_dragon_lakeguardian_3.png",
+    "reward": 120,
     "item": [
       {
-        "amount": 70,
+        "amount": 225,
         "symbol": 3
       },
       {
-        "amount": 70,
-        "symbol": 0
-      }
-    ],
-    "loop": false
-  },
-  {
-    "position": 19,
-    "title": "Dragon",
-    "icon": "default_dragon",
-    "reward": 1,
-    "item": [
-      {
-        "amount": 70,
-        "symbol": 3
-      },
-      {
-        "amount": 70,
+        "amount": 225,
         "symbol": 0
       }
     ],
