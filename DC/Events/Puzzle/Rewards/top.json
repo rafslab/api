@@ -64,7 +64,6 @@
     ],
     "loop": false
   },
-  //Wave 6-10
   {
     "position": 6,
     "title": "Coins",
@@ -129,9 +128,7 @@
       }
     ],
     "loop": true
-  },
-  //Wave 11-15
-  
+  },  
   {
     "position": 11,
     "title": "Legendary Jokers Orbs",
@@ -209,8 +206,6 @@
     ],
     "loop": false
   },
-  
-  //Wave 16-20
   {
     "position": 16,
     "title": "Mystery Food Chest",
