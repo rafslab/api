@@ -1,14 +1,16 @@
-{
-  "position": 1,
-  "item": [
-    {
-      "type": "Top"
-    },
-    {
-      "type": "Middle"
-    },
-    {
-      "type": "Bottom"
-    }
-  ]
-}
+[
+  {
+    "position": 1,
+    "item": [
+      {
+        "type": "Top"
+      },
+      {
+        "type": "Middle"
+      },
+      {
+        "type": "Bottom"
+      }
+    ]
+  }
+]
