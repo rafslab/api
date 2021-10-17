@@ -36,7 +36,7 @@
   {
     "position": 3,
     "title": "Legendary Chest",
-    "icon": "legendary-chest",
+    "icon": "lucky-legendary-chest",
     "reward": 1,
     "item": [
       {
@@ -138,7 +138,7 @@
   {
     "position": 9,
     "title": "Legendary Chest",
-    "icon": "legendary-chest",
+    "icon": "lucky-legendary-chest",
     "reward": 1,
     "item": [
       {
