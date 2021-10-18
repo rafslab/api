@@ -6,305 +6,314 @@
       {
         "position": 1,
         "type": "gems",
-        "amount":"5",
+        "amount": 5,
         "points": 100
       },
       {
         "position": 2,
         "type": "food-m",
-        "amount":"Lunch Box",
+        "amount": "Lunch Box",
         "points": 200
       },
       {
         "position": 3,
         "type": "coins",
-        "amount":"200",
+        "amount": 200,
         "points": 300
       },
       {
         "position": 4,
         "type": "castle-chest",
-        "amount":"Castle Chest",
+        "amount": "Castle Chest",
         "points": 400
       },
       {
         "position": 5,
         "type": "dragon",
-        "amount":"White Knight Dragon",
+        "amount": "White Knight Dragon",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_1194_dragon_whiteknight_c_0.png",
         "points": 500
       },
       {
         "position": 6,
         "type": "coins",
-        "amount":"300",
+        "amount": 300,
         "points": 600
       },
       {
         "position": 7,
         "type": "food-mystery",
-        "amount":"Mystery Food Box",
+        "amount": "Mystery Food Box",
         "points": 700
       },
       {
         "position": 8,
         "type": "gems",
-        "amount":"10",
+        "amount": 10,
         "points": 800
       },
       {
         "position": 9,
         "type": "dragon",
-        "amount":"Nature Knight Dragon",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2398_dragon_natureknight_0.png",
+        "amount": "Nature Knight Dragon",
         "points": 900
       },
       {
         "position": 10,
         "type": "coins",
-        "amount":"400",
+        "amount": 400,
         "points": 1000
       },
       {
         "position": 11,
         "type": "food-m",
-        "amount":"Lunch Box",
+        "amount": "Lunch Box",
         "points": 1100
       },
       {
         "position": 12,
         "type": "siege-chest",
-        "amount":"Siege Chest",
+        "amount": "Siege Chest",
         "points": 1200
       },
       {
         "position": 13,
         "type": "token-metal",
-        "amount":"300",
+        "amount": 300,
         "points": 1300
       },
       {
         "position": 14,
         "type": "dragon",
-        "amount":"Sword Wielder Dragon",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_1554_dragon_swordwielder_0.png",
+        "amount": "Sword Wielder Dragon",
         "points": 1400
       },
       {
         "position": 15,
         "type": "food-mystery",
-        "amount":"Mystery Food Box",
+        "amount": "Mystery Food Box",
         "points": 1500
       },
       {
         "position": 16,
         "type": "coins",
-        "amount":"500",
+        "amount": 500,
         "points": 1600
       },
       {
         "position": 17,
         "type": "food-l",
-        "amount":"Dinner Box",
+        "amount": "Dinner Box",
         "points": 1700
       },
       {
         "position": 18,
         "type": "castle-chest",
-        "amount":"Castle Chest",
+        "amount": "Castle Chest",
         "points": 1900
       },
       {
         "position": 19,
         "type": "gems",
-        "amount":"15",
+        "amount": 15,
         "points": 2100
       },
       {
         "position": 20,
         "type": "coins",
-        "amount":"600",
+        "amount": 600,
         "points": 2300
       },
       {
         "position": 21,
         "type": "dragon",
-        "amount":"Arzur Dragon",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_1803_dragon_arzur_0.png",
+        "amount": "Arzur Dragon",
         "points": 2500
       },
       {
         "position": 22,
         "type": "food-mystery",
-        "amount":"Mystery Food Box",
+        "amount": "Mystery Food Box",
         "points": 2700
       },
       {
         "position": 23,
         "type": "siege-chest",
-        "amount":"Siege Chest",
+        "amount": "Siege Chest",
         "points": 3000
       },
       {
         "position": 24,
         "type": "coins",
-        "amount":"1000",
+        "amount": 1000,
         "points": 3300
       },
       {
         "position": 25,
         "type": "lucky-legendary-chest",
-        "amount":"Lucky Legendary Chest",
+        "amount": "Lucky Legendary Chest",
         "points": 3600
       },
       {
         "position": 26,
         "type": "food-l",
-        "amount":"Dinner Box",
+        "amount": "Dinner Box",
         "points": 3900
       },
       {
         "position": 27,
         "type": "dragon",
-        "amount":"Battering Ram Dragon",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2773_dragon_batteringram_0.png",
+        "amount": "Battering Ram Dragon",
         "points": 4500
       },
       {
         "position": 28,
         "type": "gems",
-        "amount":"20",
+        "amount": 20,
         "points": 4700
       },
       {
         "position": 29,
         "type": "castle-chest",
-        "amount":"Castle Chest",
+        "amount": "Castle Chest",
         "points": 5000
       },
       {
         "position": 30,
         "type": "food-xl",
-        "amount":"Banquet Box",
+        "amount": "Banquet Box",
         "points": 5300
       },
       {
         "position": 31,
         "type": "siege-chest",
-        "amount":"Siege Chest",
+        "amount": "Siege Chest",
         "points": 5600
       },
       {
         "position": 32,
         "type": "orb",
-        "amount":"40",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2773_dragon_batteringram_3.png",
+        "amount": 40,
         "points": 5900
       },
       {
         "position": 33,
         "type": "food-xl",
-        "amount":"Banquet Box",
+        "amount": "Banquet Box",
         "points": 6100
       },
       {
         "position": 34,
         "type": "castle-chest",
-        "amount":"Castle Chest",
+        "amount": "Castle Chest",
         "points": 6400
       },
       {
         "position": 35,
         "type": "black-chest",
-        "amount":"Black Chest",
+        "amount": "Black Chest",
         "points": 6600
       },
       {
         "position": 36,
         "type": "orb",
-        "amount":"40",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2773_dragon_batteringram_3.png",
+        "amount": 40,
         "points": 6800
       },
       {
         "position": 37,
         "type": "siege-chest",
-        "amount":"Siege Chest",
+        "amount": "Siege Chest",
         "points": 7000
       },
       {
         "position": 38,
         "type": "titan-chest",
-        "amount":"Titan Chest",
+        "amount": "Titan Chest",
         "points": 7300
       },
       {
         "position": 39,
         "type": "castle-chest",
-        "amount":"Castle Chest",
+        "amount": "Castle Chest",
         "points": 7600
       },
       {
         "position": 40,
         "type": "food-xl",
-        "amount":"Banquet Box",
+        "amount": "Banquet Box",
         "points": 7900
       },
       {
         "position": 41,
         "type": "mythical-egg-chest",
-        "amount":"Mythical Egg Chest",
+        "amount": "Mythical Egg Chest",
         "points": 8300
       },
       {
         "position": 42,
         "type": "siege-chest",
-        "amount":"Siege Chest",
+        "amount": "Siege Chest",
         "points": 8800
       },
-      
       {
         "position": 43,
         "type": "orb",
-        "amount":"40",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2773_dragon_batteringram_3.png",
+        "amount": 40,
         "points": 9500
       },
       {
         "position": 44,
         "type": "food-xl",
-        "amount":"Banquet Box",
+        "amount": "Banquet Box",
         "points": 10000
       },
       {
         "position": 45,
         "type": "orb",
-        "amount":"80",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2773_dragon_batteringram_3.png",
+        "amount": 80,
         "points": 11000
       },
       {
         "position": 46,
         "type": "food-xl",
-        "amount":"Banquet Box",
+        "amount": "Banquet Box",
         "points": 12000
       },
       {
         "position": 47,
         "type": "chest-token-all",
-        "amount":"Chest of All Tokens",
+        "amount": "Chest of All Tokens",
         "points": 13000
       },
       {
         "position": 48,
         "type": "orb",
-        "amount":"120",
+        "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/HD/thumb_2773_dragon_batteringram_3.png",
+        "amount": 120,
         "points": 14000
       },
       {
         "position": 49,
         "type": "heroic-egg-chest",
-        "amount":"Heroic Egg Chest",
+        "amount": "Heroic Egg Chest",
         "points": 15500
       },
       {
         "position": 50,
         "type": "runner-chest",
-        "amount":"Runner Chest",
+        "amount": "Runner Chest",
         "points": 17000
       }
     ],
-    "mission": "null"
+    "mission": null
   }
 ]
