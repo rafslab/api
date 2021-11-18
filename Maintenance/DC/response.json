@@ -1,3 +1,24 @@
 {
-  "status": 1
+  "status": 1,
+  "message": {
+    "body": {
+      "title": "Update",
+      "description": "description",
+      "changeLog": "Test",
+      "cover": ""
+    },
+    "header": ""
+  },
+  "update": true,
+  "function": {
+    "version": {
+      "value": 1,
+      "code": 1
+    },
+    "download": {
+      "value": "value"
+    },
+    "countDown": false,
+    "value": 0
+  }
 }
