@@ -8,6 +8,10 @@
     "path": "events"
   },
   {
+    "title": "Breeding Calculator",
+    "path": "breed_calculator"
+  },
+  {
     "title": "Calculator",
     "path": "calculator"
   },
