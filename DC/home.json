@@ -17,6 +17,16 @@
   },
   {
     "title": "Information",
-    "path": "information"
+    "path": "information",
+    "item": [
+      {
+        "name": "Alliance Chest",
+        "path": "alliance_chest"
+      },
+      {
+        "name": "Quests",
+        "path": "quest"
+      }
+    ]
   }
 ]
