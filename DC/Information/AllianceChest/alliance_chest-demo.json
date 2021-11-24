@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "title": "Image",
+        "list": [
+          {
+            "icon": "ic_battles"
+          },
+          {
+            "icon": "ic_breed"
+          },
+          {
+            "icon": "ic_hatch"
+          },
+          {
+            "icon": "ic_battles"
+          },
+          {
+            "icon": "ic_league"
+          },
+          {
+            "icon": "ic_breed"
+          },
+          {
+            "icon": "ic_hatch"
+          },
+          {
+            "icon": "ic_breed"
+          },
+          {
+            "icon": "ic_league"
+          }
+        ]
+      },
+      {
+        "title": "Chest",
+        "list": [
+          {
+            "name": "Arenas"
+          },
+          {
+            "name": "Breeding"
+          },
+          {
+            "name": "Hatching"
+          },
+          {
+            "name": "Arenas"
+          },
+          {
+            "name": "Leagues"
+          },
+          {
+            "name": "Breeding"
+          },
+          {
+            "name": "Hatching"
+          },
+          {
+            "name": "Breeding"
+          },
+          {
+            "name": "Leagues"
+          }
+        ]
+      },
+      {
+        "title": "Time",
+        "list": [
+          {
+            "name": "11/2/21, 23:00\n11/4/21, 23:00"
+          },
+          {
+            "name": "11/2/21, 23:00\n11/4/21, 23:00"
+          },
+          {
+            "name": "11/2/21, 23:00\n11/4/21, 23:00"
+          },
+          {
+            "name": "11/2/21, 23:00\n11/4/21, 23:00"
+          },
+          {
+            "name": "11/2/21, 23:00\n11/4/21, 23:00"
+          },
+          {
+            "name": "11/2/21, 23:00\n11/4/21, 23:00"
+          },
+          {
+            "name": "11/2/21, 23:00\n11/4/21, 23:00"
+          },
+          {
+            "name": "11/2/21, 23:00\n11/4/21, 23:00"
+          },
+          {
+            "name": "11/2/21, 23:00\n11/4/21, 23:00"
+          }
+        ]
+      },
+      {
+        "title": "Reward",
+        "list": [
+          {
+            "amount": 105,
+            "icon": "ic_gems"
+          },
+          {
+            "amount": 105,
+            "icon": "ic_gems"
+          },
+          {
+            "amount": 105,
+            "icon": "ic_gems"
+          },
+          {
+            "amount": 105,
+            "icon": "ic_gems"
+          },
+          {
+            "amount": 105,
+            "icon": "ic_gems"
+          },
+          {
+            "amount": 105,
+            "icon": "ic_gems"
+          },
+          {
+            "amount": 105,
+            "icon": "ic_gems"
+          },
+          {
+            "amount": 105,
+            "icon": "ic_gems"
+          },
+          {
+            "amount": 105,
+            "icon": "ic_gems"
+          }
+        ]
+      }
+    ]
+  }
+]
