@@ -102,7 +102,11 @@
             "wait": 0,
             "chance": "10%",
             "minTime": "No Minimum"
-          },
+          }
+        ]
+      },
+      {
+        "mission": [
           {
             "title": "Collect Gold",
             "icon": "url",
@@ -123,7 +127,7 @@
             "number": 1,
             "pool": 1,
             "wait": 0,
-            "chance": "10%",
+            "chance": "100%",
             "minTime": "No Minimum"
           }
         ]
@@ -139,15 +143,19 @@
             "wait": 19,
             "chance": "10%",
             "minTime": "19 minutes"
-          },
+          }
+        ]
+      },
+      {
+        "mission": [
           {
             "title": "Battle Dragons",
             "icon": "url",
             "number": 2,
             "pool": 2,
             "wait": 0,
-            "chance": "10%",
-            "minTime": "15 minutes"
+            "chance": "100%",
+            "minTime": "20 minutes"
           }
         ]
       },
@@ -160,17 +168,21 @@
             "number": 10,
             "pool": 8,
             "wait": 19,
-            "chance": "100%",
-            "minTime": "38 Minutes"
-          },
+            "chance": "10%",
+            "minTime": "38 minutes"
+          }
+        ]
+      },
+      {
+        "mission": [
           {
-            "title": "Breed Dragons",
+            "title": "Battle Dragons",
             "icon": "url",
             "number": 2,
             "pool": 2,
             "wait": 0,
             "chance": "100%",
-            "minTime": "No Minimum"
+            "minTime": "20 minutes"
           }
         ]
       }
@@ -183,16 +195,16 @@
         "node": 1,
         "mission": [
           {
-            "title": "Collect Gold",
+            "title": "Colelct Gold",
             "icon": "url",
             "number": 11,
             "pool": 11,
             "wait": 0,
-            "chance": "10%",
+            "chance": "1%",
             "minTime": "No Minimum"
           },
           {
-            "title": "Collect Food",
+            "title": "Colelct Food",
             "icon": "url",
             "number": 8,
             "pool": 8,
@@ -233,9 +245,9 @@
             "icon": "url",
             "number": 3,
             "pool": 3,
-            "wait": 45,
-            "chance": "100%",
-            "minTime": "45 Minutes"
+            "wait": 0,
+            "chance": "10%",
+            "minTime": "1 Hour"
           }
         ]
       },
@@ -247,18 +259,18 @@
             "icon": "url",
             "number": 12,
             "pool": 9,
-            "wait": 5,
+            "wait": 10,
             "chance": "10%",
-            "minTime": "5 minutes"
+            "minTime": "30 Minutes"
           },
           {
             "title": "Collect Food",
             "icon": "url",
             "number": 10,
             "pool": 8,
-            "wait": 30,
+            "wait": 15,
             "chance": "10%",
-            "minTime": "30 minutes"
+            "minTime": "30 Minutes"
           }
         ]
       },
@@ -272,7 +284,7 @@
             "pool": 3,
             "wait": 0,
             "chance": "10%",
-            "minTime": "15 Minutes"
+            "minTime": "No Minimum"
           }
         ]
       }
@@ -314,7 +326,7 @@
             "pool": 4,
             "wait": 0,
             "chance": "100%",
-            "minTime": "No Minimum"
+            "minTime": "01 hour 15 minutes"
           }
         ]
       },
@@ -327,7 +339,7 @@
             "number": 4,
             "pool": 4,
             "wait": 0,
-            "chance": "100%",
+            "chance": "10%",
             "minTime": "No Minimum"
           }
         ]
@@ -340,18 +352,18 @@
             "icon": "url",
             "number": 16,
             "pool": 10,
-            "wait": 16,
+            "wait": 0,
             "chance": "10%",
-            "minTime": "1Hr 36 minutes"
+            "minTime": "01 hour 31 minutes"
           },
           {
-            "title": "Collect Gold",
+            "title": "Colelct Gold",
             "icon": "url",
             "number": 14,
             "pool": 9,
-            "wait": 19,
+            "wait": 18,
             "chance": "1%",
-            "minTime": "1Hr 35 minutes"
+            "minTime": "01 hour 31 minutes"
           }
         ]
       },
@@ -365,16 +377,16 @@
             "pool": 5,
             "wait": 0,
             "chance": "100%",
-            "minTime": "1Hr 15 Minutes"
+            "minTime": "01 hour 31 minutes"
           },
           {
             "title": "Collect Food",
             "icon": "url",
             "number": 12,
             "pool": 6,
-            "wait": 31,
+            "wait": 30,
             "chance": "10%",
-            "minTime": "1Hr 15 Minutes"
+            "minTime": "03 hour 02 minutes"
           }
         ]
       }
