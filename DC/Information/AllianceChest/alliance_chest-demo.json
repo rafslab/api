@@ -1,143 +1,63 @@
 [
   {
-    "id": 1,
-    "items": [
+    "id": 12,
+    "title": [
       {
-        "title": "Image",
-        "list": [
-          {
-            "icon": "ic_battles"
-          },
-          {
-            "icon": "ic_breed"
-          },
-          {
-            "icon": "ic_hatch"
-          },
-          {
-            "icon": "ic_battles"
-          },
-          {
-            "icon": "ic_league"
-          },
-          {
-            "icon": "ic_breed"
-          },
-          {
-            "icon": "ic_hatch"
-          },
-          {
-            "icon": "ic_breed"
-          },
-          {
-            "icon": "ic_league"
-          }
-        ]
+        "value": "Image"
       },
       {
-        "title": "Chest",
-        "list": [
-          {
-            "name": "Arenas"
-          },
-          {
-            "name": "Breeding"
-          },
-          {
-            "name": "Hatching"
-          },
-          {
-            "name": "Arenas"
-          },
-          {
-            "name": "Leagues"
-          },
-          {
-            "name": "Breeding"
-          },
-          {
-            "name": "Hatching"
-          },
-          {
-            "name": "Breeding"
-          },
-          {
-            "name": "Leagues"
-          }
-        ]
+        "value": "Chest"
       },
       {
-        "title": "Time",
-        "list": [
-          {
-            "name": "11/2/21, 23:00\n11/4/21, 23:00"
-          },
-          {
-            "name": "11/2/21, 23:00\n11/4/21, 23:00"
-          },
-          {
-            "name": "11/2/21, 23:00\n11/4/21, 23:00"
-          },
-          {
-            "name": "11/2/21, 23:00\n11/4/21, 23:00"
-          },
-          {
-            "name": "11/2/21, 23:00\n11/4/21, 23:00"
-          },
-          {
-            "name": "11/2/21, 23:00\n11/4/21, 23:00"
-          },
-          {
-            "name": "11/2/21, 23:00\n11/4/21, 23:00"
-          },
-          {
-            "name": "11/2/21, 23:00\n11/4/21, 23:00"
-          },
-          {
-            "name": "11/2/21, 23:00\n11/4/21, 23:00"
-          }
-        ]
+        "value": "Time"
       },
       {
-        "title": "Reward",
-        "list": [
-          {
-            "amount": 105,
-            "icon": "ic_gems"
-          },
-          {
-            "amount": 105,
-            "icon": "ic_gems"
-          },
-          {
-            "amount": 105,
-            "icon": "ic_gems"
-          },
-          {
-            "amount": 105,
-            "icon": "ic_gems"
-          },
-          {
-            "amount": 105,
-            "icon": "ic_gems"
-          },
-          {
-            "amount": 105,
-            "icon": "ic_gems"
-          },
-          {
-            "amount": 105,
-            "icon": "ic_gems"
-          },
-          {
-            "amount": 105,
-            "icon": "ic_gems"
-          },
-          {
-            "amount": 105,
-            "icon": "ic_gems"
-          }
-        ]
+        "value": "Reward"
+      }
+    ],
+    "missions": [
+      {
+        "title": "Arenas",
+        "time": "12/3/21, 23:00\n12/6/21, 23:00",
+        "reward": 155
+      },
+      {
+        "title": "Breeding",
+        "time": "12/7/21, 23:00\n12/10/21, 23:00",
+        "type": "epic-orbs",
+        "reward": 370
+      },
+      {
+        "title": "Hatching",
+        "time": "12/11/21, 23:00\n12/13/21, 23:00",
+        "reward": 4
+      },
+      {
+        "title": "Arenas",
+        "time": "12/14/21, 23:00\n12/16/21, 23:00",
+        "reward": 105
+      },
+      {
+        "title": "Breeding",
+        "time": "12/17/21, 23:00\n12/20/21, 23:00",
+        "type": "legend-orbs",
+        "reward": 370
+      },
+      {
+        "title": "Leagues",
+        "time": "12/21/21, 23:00\n12/23/21, 23:00",
+        "reward": 3
+      },
+      {
+        "title": "Hatching",
+        "time": "12/24/21, 23:00\n12/27/21, 23:00",
+        "reward": 6
+      },
+      {
+        "title": "Breeding",
+        "time": "12/28/21, 23:00\n12/31/21, 23:00",
+        "type": "legend-orbs",
+        "reward": 370
       }
     ]
   }
