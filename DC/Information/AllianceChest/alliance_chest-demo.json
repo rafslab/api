@@ -19,44 +19,52 @@
       {
         "title": "Arenas",
         "time": "12/3/21, 23:00\n12/6/21, 23:00",
+        "icon": "ic_battles",
         "reward": 155
       },
       {
         "title": "Breeding",
         "time": "12/7/21, 23:00\n12/10/21, 23:00",
         "type": "epic-orbs",
+        "icon": "ic_breed",
         "reward": 370
       },
       {
         "title": "Hatching",
         "time": "12/11/21, 23:00\n12/13/21, 23:00",
+        "icon": "ic_hatch",
         "reward": 4
       },
       {
         "title": "Arenas",
         "time": "12/14/21, 23:00\n12/16/21, 23:00",
+        "icon": "ic_battles",
         "reward": 105
       },
       {
         "title": "Breeding",
         "time": "12/17/21, 23:00\n12/20/21, 23:00",
         "type": "legend-orbs",
+        "icon": "ic_breed",
         "reward": 370
       },
       {
         "title": "Leagues",
         "time": "12/21/21, 23:00\n12/23/21, 23:00",
+        "icon": "ic_leagues",
         "reward": 3
       },
       {
         "title": "Hatching",
         "time": "12/24/21, 23:00\n12/27/21, 23:00",
+        "icon": "ic_hatch",
         "reward": 6
       },
       {
         "title": "Breeding",
         "time": "12/28/21, 23:00\n12/31/21, 23:00",
         "type": "legend-orbs",
+        "icon": "ic_breed",
         "reward": 370
       }
     ]
