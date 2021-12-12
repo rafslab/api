@@ -102,11 +102,7 @@
             "wait": 0,
             "chance": "10%",
             "minTime": "No Minimum"
-          }
-        ]
-      },
-      {
-        "mission": [
+          },
           {
             "title": "Collect Gold",
             "icon": "url",
@@ -143,11 +139,7 @@
             "wait": 19,
             "chance": "10%",
             "minTime": "19 minutes"
-          }
-        ]
-      },
-      {
-        "mission": [
+          },
           {
             "title": "Battle Dragons",
             "icon": "url",
@@ -170,11 +162,7 @@
             "wait": 19,
             "chance": "10%",
             "minTime": "38 minutes"
-          }
-        ]
-      },
-      {
-        "mission": [
+          },
           {
             "title": "Battle Dragons",
             "icon": "url",
