@@ -5,18 +5,18 @@
     "visibility": 1,
     "value": [
       {
-        "name": "Fantasy Puzzle",
-        "path": "puzzle",
+        "name": "Runner Island",
+        "path": "runner_island",
         "cooldown": 0,
         "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/ic_puzzle.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
       },
       {
-        "name": "Siegeofhouses Grid Island",
-        "path": "grid",
+        "name": "Frostpocalypse Maze Island",
+        "path": "maze",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Grid/images/ic_grid.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/images/ic_maze.png"
       }
     ]
   },
@@ -26,18 +26,32 @@
     "visibility": 1,
     "value": [
       {
-        "name": "Runner Island",
-        "path": "runner_island",
+        "name": "Savingxmas Grid Island",
+        "path": "grid",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Grid/images/ic_grid.png"
       },
       {
-        "name": "Siege Maze Island",
-        "path": "maze",
+        "name": "Arctic D Puzzle Island",
+        "path": "puzzle",
         "cooldown": 0,
         "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/images/ic_maze.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/ic_puzzle.png"
+      },
+      {
+        "name": "Heroic Race",
+        "path": "heroic_race",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/images/ic_heroic_race.png"
+      },
+      {
+        "name": "Rightestmirror Fog Island",
+        "path": "fog_island",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Fog/images/ic_fog.png"
       }
     ]
   },
@@ -52,20 +66,6 @@
         "cooldown": 0,
         "isFirstPage": false,
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Tower/images/ic_tower.png"
-      },
-      {
-        "name": "Dwellingdanger Fog Island",
-        "path": "fog_island",
-        "cooldown": 0,
-        "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Fog/images/ic_fog.png"
-      },
-      {
-        "name": "Heaven Heroic Race",
-        "path": "heroic_race",
-        "cooldown": 0,
-        "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/images/ic_heroic_race.png"
       }
     ]
   }
