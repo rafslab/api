@@ -14,12 +14,12 @@
         {
           "reward": 5,
           "mission": "Feed Dragons",
-          "value": 1
+          "value": 6
         },
         {
           "reward": 7,
           "mission": "Breed Dragons",
-          "value": 1
+          "value": 4
         }
       ]
     },
@@ -59,7 +59,7 @@
         {
           "reward": 7,
           "mission": "Breed Dragons",
-          "value": 5
+          "value": 4
         }
       ]
     }
@@ -76,12 +76,12 @@
         {
           "reward": 5,
           "mission": "Feed Dragons",
-          "value": 1
+          "value": 12
         },
         {
           "reward": 7,
-          "mission": "Breed Dragons",
-          "value": 1
+          "mission": "Hatch Dragons",
+          "value": 4
         }
       ]
     },
@@ -96,11 +96,11 @@
         {
           "reward": 5,
           "mission": "Collect Food",
-          "value": 7
+          "value": 9
         },
         {
           "reward": 7,
-          "mission": "Hatch Eggs",
+          "mission": "Win League Battle",
           "value": 4
         }
       ]
@@ -110,13 +110,13 @@
       "task_mission": [
         {
           "reward": 3,
-          "mission": "Feed Dragons",
-          "value": 1
+          "mission": "Collect Food",
+          "value": 2
         },
         {
           "reward": 5,
-          "mission": "Win League Battle",
-          "value": 3
+          "mission": "Feed Dragons",
+          "value": 12
         },
         {
           "reward": 7,
@@ -132,18 +132,18 @@
       "task_mission": [
         {
           "reward": 3,
-          "mission": "Collect Food",
-          "value": 1
+          "mission": "Collect Gold",
+          "value": 2
         },
         {
           "reward": 5,
-          "mission": "Feed Dragons",
-          "value": 1
+          "mission": "Collect Food",
+          "value": 11
         },
         {
           "reward": 7,
-          "mission": "Breed Dragons",
-          "value": 1
+          "mission": "Hatch Eggs",
+          "value": 5
         }
       ]
     },
@@ -153,17 +153,17 @@
         {
           "reward": 3,
           "mission": "Collect Gold",
-          "value": 1
+          "value": 2
         },
         {
           "reward": 5,
           "mission": "Collect Food",
-          "value": 7
+          "value": 15
         },
         {
           "reward": 7,
-          "mission": "Hatch Eggs",
-          "value": 4
+          "mission": "Feed Dragons",
+          "value": 15
         }
       ]
     },
@@ -172,18 +172,18 @@
       "task_mission": [
         {
           "reward": 3,
-          "mission": "Feed Dragons",
-          "value": 1
+          "mission": "Collect Gold",
+          "value": 2
         },
         {
           "reward": 5,
-          "mission": "Win League Battle",
-          "value": 3
+          "mission": "Feed Dragons",
+          "value": 18
         },
         {
           "reward": 7,
-          "mission": "Breed Dragons",
-          "value": 5
+          "mission": "Win League Battle",
+          "value": 4
         }
       ]
     }
@@ -195,17 +195,17 @@
         {
           "reward": 3,
           "mission": "Collect Food",
-          "value": 1
+          "value": 2
         },
         {
           "reward": 5,
           "mission": "Feed Dragons",
-          "value": 1
+          "value": 21
         },
         {
           "reward": 7,
           "mission": "Breed Dragons",
-          "value": 1
+          "value": 5
         }
       ]
     },
@@ -215,17 +215,17 @@
         {
           "reward": 3,
           "mission": "Collect Gold",
-          "value": 1
+          "value": 2
         },
         {
           "reward": 5,
-          "mission": "Collect Food",
-          "value": 7
+          "mission": "Feed Dragons",
+          "value": 21
         },
         {
           "reward": 7,
           "mission": "Hatch Eggs",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -234,18 +234,18 @@
       "task_mission": [
         {
           "reward": 3,
-          "mission": "Feed Dragons",
-          "value": 1
+          "mission": "Collect Gold",
+          "value": 3
         },
         {
           "reward": 5,
-          "mission": "Win League Battle",
-          "value": 3
+          "mission": "Collect Food",
+          "value": 14
         },
         {
           "reward": 7,
           "mission": "Breed Dragons",
-          "value": 5
+          "value": 6
         }
       ]
     }
