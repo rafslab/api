@@ -1,253 +1,262 @@
-{
-  "start": "16-12-2021",
-  "end": "19-12-2021",
-  "expired": 8,
-  "day_1": [
-    {
-      "task": 1,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Food",
-          "value": 1
-        },
-        {
-          "reward": 5,
-          "mission": "Feed Dragons",
-          "value": 6
-        },
-        {
-          "reward": 7,
-          "mission": "Breed Dragons",
-          "value": 4
-        }
-      ]
-    },
-    {
-      "task": 2,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Gold",
-          "value": 1
-        },
-        {
-          "reward": 5,
-          "mission": "Collect Food",
-          "value": 7
-        },
-        {
-          "reward": 7,
-          "mission": "Hatch Eggs",
-          "value": 4
-        }
-      ]
-    },
-    {
-      "task": 3,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Feed Dragons",
-          "value": 1
-        },
-        {
-          "reward": 5,
-          "mission": "Win League Battle",
-          "value": 3
-        },
-        {
-          "reward": 7,
-          "mission": "Breed Dragons",
-          "value": 4
-        }
-      ]
-    }
-  ],
-  "day_2": [
-    {
-      "task": 1,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Food",
-          "value": 1
-        },
-        {
-          "reward": 5,
-          "mission": "Feed Dragons",
-          "value": 12
-        },
-        {
-          "reward": 7,
-          "mission": "Hatch Dragons",
-          "value": 4
-        }
-      ]
-    },
-    {
-      "task": 2,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Gold",
-          "value": 1
-        },
-        {
-          "reward": 5,
-          "mission": "Collect Food",
-          "value": 9
-        },
-        {
-          "reward": 7,
-          "mission": "Win League Battle",
-          "value": 4
-        }
-      ]
-    },
-    {
-      "task": 3,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Food",
-          "value": 2
-        },
-        {
-          "reward": 5,
-          "mission": "Feed Dragons",
-          "value": 12
-        },
-        {
-          "reward": 7,
-          "mission": "Breed Dragons",
-          "value": 5
-        }
-      ]
-    }
-  ],
-  "day_3": [
-    {
-      "task": 1,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Gold",
-          "value": 2
-        },
-        {
-          "reward": 5,
-          "mission": "Collect Food",
-          "value": 11
-        },
-        {
-          "reward": 7,
-          "mission": "Hatch Eggs",
-          "value": 5
-        }
-      ]
-    },
-    {
-      "task": 2,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Gold",
-          "value": 2
-        },
-        {
-          "reward": 5,
-          "mission": "Collect Food",
-          "value": 15
-        },
-        {
-          "reward": 7,
-          "mission": "Feed Dragons",
-          "value": 15
-        }
-      ]
-    },
-    {
-      "task": 3,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Gold",
-          "value": 2
-        },
-        {
-          "reward": 5,
-          "mission": "Feed Dragons",
-          "value": 18
-        },
-        {
-          "reward": 7,
-          "mission": "Win League Battle",
-          "value": 4
-        }
-      ]
-    }
-  ],
-  "day_4": [
-    {
-      "task": 1,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Food",
-          "value": 2
-        },
-        {
-          "reward": 5,
-          "mission": "Feed Dragons",
-          "value": 21
-        },
-        {
-          "reward": 7,
-          "mission": "Breed Dragons",
-          "value": 5
-        }
-      ]
-    },
-    {
-      "task": 2,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Gold",
-          "value": 2
-        },
-        {
-          "reward": 5,
-          "mission": "Feed Dragons",
-          "value": 21
-        },
-        {
-          "reward": 7,
-          "mission": "Hatch Eggs",
-          "value": 5
-        }
-      ]
-    },
-    {
-      "task": 3,
-      "task_mission": [
-        {
-          "reward": 3,
-          "mission": "Collect Gold",
-          "value": 3
-        },
-        {
-          "reward": 5,
-          "mission": "Collect Food",
-          "value": 14
-        },
-        {
-          "reward": 7,
-          "mission": "Breed Dragons",
-          "value": 6
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "day": 1,
+    "value": [
+      {
+        "task": 1,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Food",
+            "value": 1
+          },
+          {
+            "reward": 5,
+            "mission": "Feed Dragons",
+            "value": 6
+          },
+          {
+            "reward": 7,
+            "mission": "Breed Dragons",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "task": 2,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Gold",
+            "value": 1
+          },
+          {
+            "reward": 5,
+            "mission": "Collect Food",
+            "value": 7
+          },
+          {
+            "reward": 7,
+            "mission": "Hatch Eggs",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "task": 3,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Feed Dragons",
+            "value": 1
+          },
+          {
+            "reward": 5,
+            "mission": "Win League Battle",
+            "value": 3
+          },
+          {
+            "reward": 7,
+            "mission": "Breed Dragons",
+            "value": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "value": [
+      {
+        "task": 1,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Food",
+            "value": 1
+          },
+          {
+            "reward": 5,
+            "mission": "Feed Dragons",
+            "value": 12
+          },
+          {
+            "reward": 7,
+            "mission": "Hatch Dragons",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "task": 2,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Gold",
+            "value": 1
+          },
+          {
+            "reward": 5,
+            "mission": "Collect Food",
+            "value": 9
+          },
+          {
+            "reward": 7,
+            "mission": "Win League Battle",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "task": 3,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Food",
+            "value": 2
+          },
+          {
+            "reward": 5,
+            "mission": "Feed Dragons",
+            "value": 12
+          },
+          {
+            "reward": 7,
+            "mission": "Breed Dragons",
+            "value": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "value": [
+      {
+        "task": 1,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Gold",
+            "value": 2
+          },
+          {
+            "reward": 5,
+            "mission": "Collect Food",
+            "value": 11
+          },
+          {
+            "reward": 7,
+            "mission": "Hatch Eggs",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "task": 2,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Gold",
+            "value": 2
+          },
+          {
+            "reward": 5,
+            "mission": "Collect Food",
+            "value": 15
+          },
+          {
+            "reward": 7,
+            "mission": "Feed Dragons",
+            "value": 15
+          }
+        ]
+      },
+      {
+        "task": 3,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Gold",
+            "value": 2
+          },
+          {
+            "reward": 5,
+            "mission": "Feed Dragons",
+            "value": 18
+          },
+          {
+            "reward": 7,
+            "mission": "Win League Battle",
+            "value": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "value": [
+      {
+        "task": 1,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Food",
+            "value": 2
+          },
+          {
+            "reward": 5,
+            "mission": "Feed Dragons",
+            "value": 21
+          },
+          {
+            "reward": 7,
+            "mission": "Breed Dragons",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "task": 2,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Gold",
+            "value": 2
+          },
+          {
+            "reward": 5,
+            "mission": "Feed Dragons",
+            "value": 21
+          },
+          {
+            "reward": 7,
+            "mission": "Hatch Eggs",
+            "value": 5
+          }
+        ]
+      },
+      {
+        "task": 3,
+        "task_mission": [
+          {
+            "reward": 3,
+            "mission": "Collect Gold",
+            "value": 3
+          },
+          {
+            "reward": 5,
+            "mission": "Collect Food",
+            "value": 14
+          },
+          {
+            "reward": 7,
+            "mission": "Breed Dragons",
+            "value": 6
+          }
+        ]
+      }
+    ]
+  }
+]
