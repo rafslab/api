@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bunny",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_1469_dragon_bunny_1.png",
+    "category": 4,
+    "rarity": "Very Rare",
+    "cost": 1460
+  },
+  {
+    "name": "Cherimoya",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2095_dragon_cherimoya_1.png",
+    "category": 5,
+    "rarity": "Epic",
+    "cost": 4445
+  },
+  {
+    "name": "Calaverina",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2139_dragon_calaverina_1.png",
+    "category": 5,
+    "rarity": "Epic",
+    "cost": 10200
+  },
+  {
+    "name": "Fiesta",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2490_dragon_fiesta_b_1.png",
+    "category": 9,
+    "rarity": "Legendary",
+    "cost": 20850
+  },
+  {
+    "name": "Manic Miner",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2786_dragon_manicminer_1.png",
+    "category": 9,
+    "rarity": "Legendary",
+    "cost": 29152
+  }
+]
