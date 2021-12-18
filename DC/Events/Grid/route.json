@@ -33,5 +33,19 @@
     "category": 9,
     "rarity": "Legendary",
     "cost": 29152
+  },
+  {
+    "name": "Mythical Egg Chest",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_231_chest_mythical_egg.png",
+    "category": 10,
+    "rarity": "Legendary",
+    "cost": 32105
+  },
+  {
+    "name": "Heroic Egg Chest",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_228_chest_heroic_egg.png",
+    "category": 11,
+    "rarity": "Heroic",
+    "cost": 40855
   }
 ]
