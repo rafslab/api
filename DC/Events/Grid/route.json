@@ -1,38 +1,38 @@
 [
   {
-    "name": "Bunny",
-    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_1469_dragon_bunny_1.png",
+    "name": "Christreen",
+    "icon": "https://deetlist.com/dragoncity/img/dragon/christreen.png",
     "category": 4,
     "rarity": "Very Rare",
-    "cost": 1460
+    "cost": 1080
   },
   {
-    "name": "Cherimoya",
-    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2095_dragon_cherimoya_1.png",
+    "name": "Stocking",
+    "icon": "https://deetlist.com/dragoncity/img/dragon/stocking.png",
     "category": 5,
     "rarity": "Epic",
-    "cost": 4445
+    "cost": 3255
   },
   {
-    "name": "Calaverina",
-    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2139_dragon_calaverina_1.png",
+    "name": "Winter Star",
+    "icon": "https://deetlist.com/dragoncity/img/dragon/winter%20star.png",
     "category": 5,
     "rarity": "Epic",
-    "cost": 10200
+    "cost": 7005
   },
   {
-    "name": "Fiesta",
-    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2490_dragon_fiesta_b_1.png",
+    "name": "Polar Prince",
+    "icon": "https://deetlist.com/dragoncity/img/dragon/polar%20prince.png",
     "category": 9,
     "rarity": "Legendary",
-    "cost": 20850
+    "cost": 14655
   },
   {
-    "name": "Manic Miner",
-    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/dragons/ui_2786_dragon_manicminer_1.png",
+    "name": "Murdraghoul",
+    "icon": "https://deetlist.com/dragoncity/img/dragon/murdraghoul.png",
     "category": 9,
     "rarity": "Legendary",
-    "cost": 29152
+    "cost": 22430
   },
   {
     "name": "Mythical Egg Chest",
