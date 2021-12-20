@@ -5,27 +5,6 @@
     "visibility": 1,
     "value": [
       {
-        "name": "Runner Island",
-        "path": "runner_island",
-        "cooldown": 0,
-        "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
-      },
-      {
-        "name": "Frostpocalypse Maze Island",
-        "path": "maze",
-        "cooldown": 0,
-        "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/images/ic_maze.png"
-      }
-    ]
-  },
-  {
-    "title_events": "Upcoming Events",
-    "type": 1,
-    "visibility": 1,
-    "value": [
-      {
         "name": "Savingxmas Grid Island",
         "path": "grid",
         "cooldown": 0,
@@ -38,6 +17,27 @@
         "cooldown": 0,
         "isFirstPage": true,
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/ic_puzzle.png"
+      }
+    ]
+  },
+  {
+    "title_events": "Upcoming Events",
+    "type": 1,
+    "visibility": 1,
+    "value": [
+      {
+        "name": "Runner Island",
+        "path": "runner_island",
+        "cooldown": 0,
+        "isFirstPage": true,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
+      },
+      {
+        "name": "Xmas Maze Island",
+        "path": "maze",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/images/ic_maze.png"
       },
       {
         "name": "Heroic Race",
