@@ -3,13 +3,13 @@
   "message": {
     "body": {
       "title": "Update",
-      "description": "description",
+      "description": "Description",
       "changeLog": "Test",
       "cover": ""
     },
     "header": ""
   },
-  "update": false,
+  "update": true,
   "function": {
     "version": {
       "value": "1.0",
