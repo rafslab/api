@@ -183,7 +183,7 @@
         "node": 1,
         "mission": [
           {
-            "title": "Colelct Gold",
+            "title": "Collect Gold",
             "icon": "url",
             "number": 11,
             "pool": 11,
@@ -192,7 +192,7 @@
             "minTime": "No Minimum"
           },
           {
-            "title": "Colelct Food",
+            "title": "Collect Food",
             "icon": "url",
             "number": 8,
             "pool": 8,
@@ -345,7 +345,7 @@
             "minTime": "01 hour 31 minutes"
           },
           {
-            "title": "Colelct Gold",
+            "title": "Collect Gold",
             "icon": "url",
             "number": 14,
             "pool": 9,
