@@ -5,18 +5,19 @@
     "visibility": 1,
     "value": [
       {
-        "name": "Savingxmas Grid Island",
-        "path": "grid",
-        "cooldown": 0,
-        "isFirstPage": false,
-        "icon": "https://deetlist.com/dragoncity/img/event/gi.png"
-      },
-      {
-        "name": "Arctic D Puzzle Island",
-        "path": "puzzle",
+        "name": "Runner Island",
+        "path": "runner_island",
         "cooldown": 0,
         "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/ic_puzzle.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
+      },
+      
+      {
+        "name": "Tiki Bay Maze Island",
+        "path": "maze",
+        "cooldown": 0,
+        "isFirstPage": false,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/images/ic_maze.png"
       }
     ]
   },
@@ -26,18 +27,18 @@
     "visibility": 1,
     "value": [
       {
-        "name": "Runner Island",
-        "path": "runner_island",
-        "cooldown": 0,
-        "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
-      },
-      {
-        "name": "Xmas Maze Island",
-        "path": "maze",
+        "name": "Icecoronation Grid Island",
+        "path": "grid",
         "cooldown": 0,
         "isFirstPage": false,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Maze/images/ic_maze.png"
+        "icon": "https://deetlist.com/dragoncity/img/event/gi.png"
+      },
+      {
+        "name": "Fantasy Puzzle Island",
+        "path": "puzzle",
+        "cooldown": 0,
+        "isFirstPage": true,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/ic_puzzle.png"
       },
       {
         "name": "Heroic Race",
@@ -47,7 +48,7 @@
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/images/ic_heroic_race.png"
       },
       {
-        "name": "Rightestmirror Fog Island",
+        "name": "Loodeclipse Fog Island",
         "path": "fog_island",
         "cooldown": 0,
         "isFirstPage": false,
