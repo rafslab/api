@@ -3,7 +3,7 @@
   "message": {
     "body": {
       "title": "Update",
-      "description": "TEST FORCE UPDATE",
+      "description": "New Version: 1.0-beta.build3-rev3.",
       "changeLog": "Test",
       "cover": ""
     },
@@ -12,11 +12,11 @@
   "update": true,
   "function": {
     "version": {
-      "value": "1.0-beta.build3-rev2",
+      "value": "1.0-beta.build3-rev3",
       "code": 1
     },
     "download": {
-      "value": "value"
+      "value": "https://drive.google.com/u/0/uc?export=download&confirm=4_CV&id=1woocPKjVNxTmFVDm2RdUHgv0ZHJaiC8c"
     },
     "countDown": false,
     "value": 0
