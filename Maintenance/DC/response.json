@@ -12,7 +12,7 @@
   "update": true,
   "function": {
     "version": {
-      "value": "1.0",
+      "value": "1.0-beta.build3-rev2",
       "code": 1
     },
     "download": {
