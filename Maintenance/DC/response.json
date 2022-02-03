@@ -1,9 +1,9 @@
 {
-  "status": 2,
+  "status": 0,
   "message": {
     "body": {
-      "title": "Update",
-      "description": "New Version: 1.0-beta.build3-rev3.",
+      "title": "Maintenance",
+      "description": "....",
       "changeLog": "Test",
       "cover": ""
     },
