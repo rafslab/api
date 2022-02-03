@@ -2,8 +2,8 @@
   "status": 0,
   "message": {
     "body": {
-      "title": "Maintenance",
-      "description": "....",
+      "title": "Maintenance!",
+      "description": "Sedang dalam perbaikan.",
       "changeLog": "Test",
       "cover": ""
     },
