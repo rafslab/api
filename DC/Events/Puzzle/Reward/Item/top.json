@@ -40,9 +40,9 @@
   },
   {
     "position": 4,
-    "title": "Castle Chest",
+    "title": "Encrypted Love Letter",
     "reward": 1,
-    "icon": "castle-chest",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter@2x.png",
     "item": [
       {
         "amount": 45,
@@ -128,7 +128,7 @@
       }
     ],
     "loop": true
-  },  
+  },
   {
     "position": 11,
     "title": "Legendary Jokers Orbs",
@@ -157,9 +157,9 @@
   },
   {
     "position": 13,
-    "title": "Castle Chest",
+    "title": "Encrypted Love Letter",
     "reward": 1,
-    "icon": "castle-chest",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter@2x.png",
     "item": [
       {
         "amount": 40,
@@ -259,9 +259,9 @@
   },
   {
     "position": 19,
-    "title": "Coins",
-    "reward": 1500,
-    "icon": "grid-maze-coins",
+    "title": "Encrypted Love Letter",
+    "reward": 1,
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter@2x.png",
     "item": [
       {
         "amount": 75,
