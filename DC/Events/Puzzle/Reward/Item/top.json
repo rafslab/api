@@ -79,9 +79,9 @@
   },
   {
     "position": 7,
-    "title": "Siege Chest",
-    "reward": 1,
-    "icon": "siege-chest",
+    "title": "Legendary Jokers Orbs",
+    "reward": 5,
+    "icon": "chest_joker_legendary",
     "item": [
       {
         "amount": 45,
@@ -92,9 +92,9 @@
   },
   {
     "position": 8,
-    "title": "Legendary Jokers Orbs",
-    "reward": 5,
-    "icon": "chest_joker_legendary",
+    "title": "Encrypted Love Letter",
+    "reward": 1,
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter.png",
     "item": [
       {
         "amount": 45,
