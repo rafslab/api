@@ -5,15 +5,14 @@
     "visibility": 1,
     "value": [
       {
-        "name": "Runner Island",
-        "path": "runner_island",
+        "name": "Safari Puzzle Island",
+        "path": "puzzle",
         "cooldown": 0,
         "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/ic_puzzle.png"
       },
-      
       {
-        "name": "Tiki Bay Maze Island",
+        "name": "A Primal Beauty Maze Island",
         "path": "maze",
         "cooldown": 0,
         "isFirstPage": false,
@@ -27,18 +26,18 @@
     "visibility": 1,
     "value": [
       {
-        "name": "Icecoronation Grid Island",
+        "name": "Runner Island",
+        "path": "runner_island",
+        "cooldown": 0,
+        "isFirstPage": true,
+        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
+      },
+      {
+        "name": "Forgottentales Grid Island",
         "path": "grid",
         "cooldown": 0,
         "isFirstPage": false,
         "icon": "https://deetlist.com/dragoncity/img/event/gi.png"
-      },
-      {
-        "name": "Fantasy Puzzle Island",
-        "path": "puzzle",
-        "cooldown": 0,
-        "isFirstPage": true,
-        "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/ic_puzzle.png"
       },
       {
         "name": "Heroic Race",
@@ -48,7 +47,7 @@
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/images/ic_heroic_race.png"
       },
       {
-        "name": "Loodeclipse Fog Island",
+        "name": "Supremereign Fog Island",
         "path": "fog_island",
         "cooldown": 0,
         "isFirstPage": false,
