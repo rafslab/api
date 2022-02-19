@@ -42,7 +42,7 @@
     "position": 4,
     "title": "Encrypted Love Letter",
     "reward": 1,
-    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter@2x.png",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter.png",
     "item": [
       {
         "amount": 45,
@@ -159,7 +159,7 @@
     "position": 13,
     "title": "Encrypted Love Letter",
     "reward": 1,
-    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter@2x.png",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter.png",
     "item": [
       {
         "amount": 40,
@@ -261,7 +261,7 @@
     "position": 19,
     "title": "Encrypted Love Letter",
     "reward": 1,
-    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter@2x.png",
+    "icon": "https://dci-static-s1.socialpointgames.com/static/dragoncity/mobile/ui/chests/ui_549_chest_encrypted_love_letter.png",
     "item": [
       {
         "amount": 75,
