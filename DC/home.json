@@ -28,5 +28,9 @@
         "path": "quest"
       }
     ]
+  },
+  {
+    "title": "Contact Support",
+    "path": "cust_contact"
   }
 ]
