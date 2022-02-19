@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
@@ -71,6 +72,7 @@
   },
   {
     "id": 2,
+    "visibility": true,
     "title": [
       {
         "value": "Image"
@@ -107,7 +109,7 @@
       },
       {
         "title": "Breeding",
-        "time": "2/18/22, 23:00\n2/21/22, 23:00,
+        "time": "2/18/22, 23:00\n2/21/22, 23:00",
         "type": "legend-orbs",
         "icon": "ic_breed",
         "reward": 370
@@ -120,14 +122,15 @@
       },
       {
         "title": "Hatching",
-        "time": "	2/25/22, 23:00\n2/28/22, 23:00",
+        "time": "\t2/25/22, 23:00\n2/28/22, 23:00",
         "icon": "ic_hatch",
         "reward": 11
-      },
+      }
     ]
   },
   {
     "id": 3,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
@@ -198,6 +201,7 @@
   },
   {
     "id": 4,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
@@ -268,6 +272,7 @@
   },
   {
     "id": 5,
+    "visibility": true,
     "title": [
       {
         "value": "Image"
@@ -310,7 +315,7 @@
       },
       {
         "title": "Breeding",
-        "time": "	5/17/22, 23:00\n5/19/22, 23:00,
+        "time": "\t5/17/22, 23:00\n5/19/22, 23:00",
         "type": "epic-orbs",
         "icon": "ic_breed",
         "reward": 245
@@ -321,7 +326,6 @@
         "icon": "ic_hatch",
         "reward": 11
       },
-      
       {
         "title": "Arenas",
         "time": "5/24/22, 23:00\n5/26/22, 23:00",
@@ -345,6 +349,7 @@
   },
   {
     "id": 6,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
@@ -415,6 +420,7 @@
   },
   {
     "id": 7,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
@@ -485,6 +491,7 @@
   },
   {
     "id": 8,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
@@ -555,6 +562,7 @@
   },
   {
     "id": 9,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
@@ -625,6 +633,7 @@
   },
   {
     "id": 10,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
@@ -695,6 +704,7 @@
   },
   {
     "id": 11,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
@@ -765,6 +775,7 @@
   },
   {
     "id": 12,
+    "visibility": false,
     "title": [
       {
         "value": "Image"
