@@ -1,5 +1,5 @@
 {
-  "status": 0,
+  "status": 1,
   "message": {
     "body": {
       "title": "Maintenance",
@@ -12,7 +12,7 @@
   "update": true,
   "function": {
     "version": {
-      "value": "1.0-beta.build3-rev3",
+      "value": "1.0-beta.build3-rev4",
       "code": 1
     },
     "download": {
