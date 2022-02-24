@@ -2,8 +2,8 @@
   "status": 2,
   "message": {
     "body": {
-      "title": "Maintenance",
-      "description": "Sedang dalam perbaikan.",
+      "title": "UPDATE",
+      "description": "1.0-beta.build3-rev4",
       "changeLog": "Test",
       "cover": ""
     },
