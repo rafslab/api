@@ -5,14 +5,14 @@
     "visibility": 1,
     "value": [
       {
-        "name": "Safari Puzzle Island",
+        "name": "Rainbow Puzzle Island",
         "path": "puzzle",
         "cooldown": 0,
         "isFirstPage": true,
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Puzzle/images/ic_puzzle.png"
       },
       {
-        "name": "A Primal Beauty Maze Island",
+        "name": "Power of The Triad Maze Island",
         "path": "maze",
         "cooldown": 0,
         "isFirstPage": false,
@@ -33,7 +33,7 @@
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Runner/images/ic_runner.png"
       },
       {
-        "name": "Forgottentales Grid Island",
+        "name": "Deputysrevenge Grid Island",
         "path": "grid",
         "cooldown": 0,
         "isFirstPage": false,
@@ -47,7 +47,7 @@
         "icon": "https://raw.githubusercontent.com/rafslab/api/master/DC/Events/Heroic-Race/images/ic_heroic_race.png"
       },
       {
-        "name": "Supremereign Fog Island",
+        "name": "Colonyuprising Fog Island",
         "path": "fog_island",
         "cooldown": 0,
         "isFirstPage": false,
